@@ -1,0 +1,980 @@
+,Name,Price,Ratings,Storage,ScreenSize (in CM),Camera (in MP)
+0,"POCO C51 (Royal Blue, 64 GB)",6499,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.56,8MP Dual Rear Camera | 5MP Front Camera
+1,"POCO C51 (Power Black, 64 GB)",6499,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.56,8MP Dual Rear Camera | 5MP Front Camera
+2,"Infinix SMART 7 (Azure Blue, 64 GB)",6999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.76,13MP + AI Lens | 5MP Front Camera
+3,"POCO C50 (Royal Blue, 32 GB)",5499,4.2,2 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.56,8MP Dual Camera | 5MP Front Camera
+4,"Infinix SMART 7 (Emerald Green, 64 GB)",6999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.76,13MP + AI Lens | 5MP Front Camera
+5,"Infinix SMART 7 (Emerald Green, 128 GB)",7799,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.76,13MP + AI Lens | 5MP Front Camera
+6,"vivo T2x 5G (Marine Blue, 128 GB)",13999,4.4,6 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+7,"vivo T2x 5G (Glimmer Black, 128 GB)",13999,4.4,6 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+8,"vivo T2x 5G (Aurora Gold, 128 GB)",13999,4.4,6 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+9,"vivo T2x 5G (Aurora Gold, 128 GB)",12999,4.4,4 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+10,"vivo T2x 5G (Glimmer Black, 128 GB)",12999,4.4,4 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+11,"Infinix SMART 7 (Night Black, 64 GB)",6999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.76,13MP + AI Lens | 5MP Front Camera
+12,"POCO C55 (Cool Blue, 128 GB)",8499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.04,50MP Dual Rear Camera | 5MP Front Camera
+13,"Infinix SMART 7 (Azure Blue, 128 GB)",7799,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.76,13MP + AI Lens | 5MP Front Camera
+14,"POCO C55 (Power Black, 128 GB)",8499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.04,50MP Dual Rear Camera | 5MP Front Camera
+15,"Infinix SMART 7 (Night Black, 128 GB)",7799,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.76,13MP + AI Lens | 5MP Front Camera
+16,"OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",17999,4.4,6 GB RAM | 128 GB ROM,16.74,64MP Rear Camera | 16MP Front Camera
+17,"MOTOROLA G32 (Mineral Gray, 128 GB)",11999,4.1,8 GB RAM | 128 GB ROM,16.51,50MP + 8MP + 2MP | 16MP Front Camera
+18,"MOTOROLA G62 5G (Frosted Blue, 128 GB)",14999,4.1,6 GB RAM | 128 GB ROM,16.64,50MP + 8MP + 2MP | 16MP Front Camera
+19,"POCO C55 (Forest Green, 128 GB)",8499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.04,50MP Dual Rear Camera | 5MP Front Camera
+20,"MOTOROLA e32 (Arctic Blue, 64 GB)",7999,3.9,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,50MP + 2MP | 8MP Front Camera
+21,"MOTOROLA e13 (Aurora Green, 64 GB)",7299,4.0,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,13MP Rear Camera | 5MP Front Camera
+22,"POCO C55 (Forest Green, 64 GB)",7499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.04,50MP Dual Rear Camera | 5MP Front Camera
+23,"POCO C55 (Cool Blue, 64 GB)",7499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.04,50MP Dual Rear Camera | 5MP Front Camera
+24,"Infinix HOT 30i (Diamond White, 128 GB)",9039,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+25,"Infinix HOT 30i (Marigold, 128 GB)",9039,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+26,"MOTOROLA G62 5G (Frosted Blue, 128 GB)",14999,4.1,6 GB RAM | 128 GB ROM,16.64,50MP + 8MP + 2MP | 16MP Front Camera
+27,"Infinix HOT 30i (Marigold, 64 GB)",8199,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+28,"Infinix HOT 30i (Diamond White, 64 GB)",8199,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+29,"Infinix HOT 30i (Glacier Blue, 64 GB)",8199,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+30,"REDMI 11 Prime (Peppy Purple, 64 GB)",8999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP + 2MP | 8MP Front Camera
+31,"MOTOROLA g13 (Lavender Blue, 128 GB)",9999,4.0,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 2MP + 2MP | 8MP Front Camera
+32,"POCO C55 (Power Black, 64 GB)",7499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.04,50MP Dual Rear Camera | 5MP Front Camera
+33,"POCO C50 (Country Green, 32 GB)",5499,4.2,2 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.56,8MP Dual Camera | 5MP Front Camera
+34,"Infinix HOT 30i (Glacier Blue, 128 GB)",9039,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+35,"Infinix HOT 30i (Mirror Black, 128 GB)",9039,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+36,"Infinix HOT 30i (Mirror Black, 64 GB)",8199,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 5MP Front Camera
+37,"OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",18199,4.4,6 GB RAM | 128 GB ROM,16.74,64MP Rear Camera | 16MP Front Camera
+38,"realme C53 (Champion Gold, 64 GB)",10999,4.5,6 GB RAM | 64 GB ROM | Expandable Upto 2 TB,17.12,108MP + 2MP | 8MP Front Camera
+39,Nokia 105,1299,4.0,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+40,Nokia 105,1299,4.0,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+41,Nokia 105,1299,4.0,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+42,"Infinix Smart 7 HD (Ink Black, 64 GB)",6199,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,8MP + AI Lens | 5MP Front Camera
+43,"Infinix Smart 7 HD (Green Apple, 64 GB)",6199,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,8MP + AI Lens | 5MP Front Camera
+44,"Infinix Smart 7 HD (Jade White, 64 GB)",6199,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,8MP + AI Lens | 5MP Front Camera
+45,"Infinix Smart 7 HD (Silk Blue, 64 GB)",6199,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,8MP + AI Lens | 5MP Front Camera
+46,"OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",17807,4.4,6 GB RAM | 128 GB ROM,16.74,64MP Rear Camera | 16MP Front Camera
+47,"realme C53 (Champion Black, 64 GB)",10999,4.5,6 GB RAM | 64 GB ROM | Expandable Upto 2 TB,17.12,108MP + 2MP | 8MP Front Camera
+48,Nokia 105,1299,4.0,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+49,Nokia 105,1299,4.0,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+50,Nokia 105,1299,4.0,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+51,"realme C53 (Champion Black, 64 GB)",10999,4.5,6 GB RAM | 64 GB ROM | Expandable Upto 2 TB,17.12,108MP + 2MP | 8MP Front Camera
+52,"MOTOROLA G62 5G (Frosted Blue, 128 GB)",15999,4.1,8 GB RAM | 128 GB ROM,41.94,50MP + 8MP + 2MP | 16MP Front Camera
+53,"MOTOROLA G62 5G (Midnight Gray, 128 GB)",15999,4.1,8 GB RAM | 128 GB ROM,41.94,50MP + 8MP + 2MP | 16MP Front Camera
+54,"realme C53 (Champion Gold, 128 GB)",9999,4.1,4 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.12,108MP + 2MP | 8MP Front Camera
+55,"POCO M5 (Power Black, 64 GB)",12499,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+56,Nokia 105 ss,1540,4.3,4 MB RAM | 4 MB ROM,4.57,800 mAh Battery
+57,"POCO M5 (Icy Blue, 64 GB)",8499,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+58,"REDMI 11 Prime (Flashy Black, 128 GB)",10999,4.4,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP + 2MP | 8MP Front Camera
+59,"REDMI 11 Prime (Peppy Purple, 128 GB)",10999,4.4,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP + 2MP | 8MP Front Camera
+60,"MOTOROLA g73 5G (Midnight Blue, 128 GB)",16999,4.0,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 8MP | 16MP Front Camera
+61,"POCO M5 (Power Black, 128 GB)",10499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+62,"REDMI A1+ (Black, 32 GB)",6299,4.2,2 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.56,8MP Rear Camera | 5MP Front Camera
+63,Micromax J22,1131,3.9,32 MB RAM | 32 MB ROM,6.1,1000 mAh Battery
+64,Micromax J22,1079,3.9,32 MB RAM | 32 MB ROM,6.1,1000 mAh Battery
+65,"REDMI 12 (Jade Black, 128 GB)",11499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+66,"SAMSUNG Galaxy M04 (Light Green, 64 GB)",8189,4.1,4 GB RAM | 64 GB ROM,16.51,13MP + 2MP | 5MP Front Camera
+67,Micromax X512,979,4.0,30 MB RAM | 24 MB ROM,4.5,1750 mAh Battery
+68,"REDMI 12 (Jade Black, 128 GB)",9999,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+69,"realme C30 (Denim Black, 32 GB)",5999,4.2,2 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+70,"Infinix HOT 20 Play (Aurora Green, 64 GB)",7999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,17.32,13Mp + AI Lens | 8MP Front Camera
+71,"POCO M5 (Yellow, 64 GB)",8499,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+72,"OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",17807,4.4,6 GB RAM | 128 GB ROM,16.74,64MP Rear Camera | 16MP Front Camera
+73,"SAMSUNG Galaxy F13 (Waterfall Blue, 64 GB)",10999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+74,"POCO M5 (Icy Blue, 128 GB)",10499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+75,LAVA A1 Josh with BOL,1039,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.5,1000 mAh Battery
+76,"Infinix HOT 20 Play (Fantasy Purple, 64 GB)",7999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,17.32,13Mp + AI Lens | 8MP Front Camera
+77,"MOTOROLA e13 (Cosmic Black, 64 GB)",6499,4.0,2 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,13MP Rear Camera | 5MP Front Camera
+78,"POCO X5 5G (Jaguar Black, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+79,"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",14990,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 2MP | 13MP Front Camera
+80,"realme C55 (Rainforest, 128 GB)",13999,4.4,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+81,"realme C30 (Bamboo Green, 32 GB)",6499,4.1,3 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+82,"SAMSUNG Galaxy F13 (Nightsky Green, 64 GB)",10999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+83,"realme C55 (Rainforest, 64 GB)",10999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+84,"realme C55 (Rainforest, 64 GB)",11999,4.3,6 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+85,"MOTOROLA G32 (Rose Gold, 128 GB)",11999,4.1,8 GB RAM | 128 GB ROM,16.51,50MP + 8MP + 2MP | 16MP Front Camera
+86,"realme C53 (Champion Black, 128 GB)",9999,4.1,4 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.12,108MP + 2MP | 8MP Front Camera
+87,GFive U220i,699,3.3,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+88,"SAMSUNG Galaxy F04 (Jade Purple, 64 GB)",8499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,13MP + 2MP | 5MP Front Camera
+89,"MOTOROLA g14 (Steel Gray, 128 GB)",9999,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 2MP | 8MP Front Camera
+90,"realme 10 (Rush Black, 128 GB)",14999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.26,50MP + 2MP | 16MP Front Camera
+91,"realme C30 (Lake Blue, 32 GB)",6499,4.1,3 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+92,"realme C30 (Denim Black, 32 GB)",6499,4.1,3 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+93,"SAMSUNG Galaxy M04 (Dark Blue, 64 GB)",8090,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,13MP + 2MP | 5MP Front Camera
+94,"Infinix HOT 20 Play (Luna Blue, 64 GB)",7999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,17.32,13Mp + AI Lens | 8MP Front Camera
+95,"REDMI 11 Prime (Playful Green, 128 GB)",10999,4.4,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP + 2MP | 8MP Front Camera
+96,"realme C55 (Rainy Night, 64 GB)",10999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+97,"realme C55 (Rainy Night, 128 GB)",13999,4.4,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+98,"realme C55 (Sunshower, 128 GB)",13999,4.4,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+99,"realme C55 (Sunshower, 64 GB)",10999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+100,"realme 10 (Clash White, 128 GB)",14999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.26,50MP + 2MP | 16MP Front Camera
+101,"realme 10 (Rush Black, 64 GB)",11499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.26,50MP + 2MP | 16MP Front Camera
+102,"SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)",10999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+103,"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)",15342,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+104,"MOTOROLA g73 5G (Lucent White, 128 GB)",16999,4.0,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 8MP | 16MP Front Camera
+105,GFive U220i,699,3.3,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+106,"vivo T2 5G (Velocity Wave, 128 GB)",20999,4.4,8 GB RAM | 128 GB ROM,16.21,64 MP (OIS) + 2MP | 16MP Front Camera
+107,"vivo T2 5G (Velocity Wave, 128 GB)",18999,4.4,6 GB RAM | 128 GB ROM,16.21,64 MP (OIS) + 2MP | 16MP Front Camera
+108,"vivo T2 5G (Nitro Blaze, 128 GB)",20999,4.4,8 GB RAM | 128 GB ROM,16.21,64 MP (OIS) + 2MP | 16MP Front Camera
+109,"vivo T2 5G (Nitro Blaze, 128 GB)",18999,4.4,6 GB RAM | 128 GB ROM,16.21,64 MP (OIS) + 2MP | 16MP Front Camera
+110,"Infinix HOT 20 Play (Racing Black, 64 GB)",7999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,17.32,13Mp + AI Lens | 8MP Front Camera
+111,GFive U873,725,3.5,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+112,"IQOO Z6 Lite 5G (With Charger) (Stellar Green, 128 GB)",15299,4.3,6 GB RAM | 128 GB ROM,16.97,50MP Rear Camera
+113,"POCO X5 5G (Supernova Green, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+114,Micromax X512,1099,4.0,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+115,LAVA A3,1299,4.2,0 GB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera | 0.3MP Front Camera
+116,itel Magic X Pro 4G| 2500mAh Big Battery| Expandable Storage upto 64GB,2498,3.9,64 MB RAM | 128 MB ROM,6.1,0.3MP Rear Camera
+117,"REDMI A2 (Sea Green, 64 GB)",6583,4.1,2 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+118,"realme C55 (Rainy Night, 64 GB)",11999,4.3,6 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+119,"realme C55 (Sunshower, 64 GB)",11999,4.3,6 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+120,"realme 10 (Clash White, 64 GB)",11499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.26,50MP + 2MP | 16MP Front Camera
+121,"REDMI A2 (Sea Green, 64 GB)",7331,4.1,4 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+122,"MOTOROLA Edge 40 (Nebula Green, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+123,"Infinix HOT 20 5G (Blaster Green, 64 GB)",11499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+124,itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,905,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0MP Front Camera
+125,"Infinix Note 30 5G (Sunset Gold, 128 GB)",14999,4.1,4 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.22,108 MP + 2 MP+ AI Lens | 16MP Front Camera
+126,"Infinix HOT 20 5G (Space Blue, 64 GB)",11499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+127,"POCO C50 (Royal Blue, 32 GB)",6299,4.0,3 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.56,8MP Dual Camera | 5MP Front Camera
+128,LAVA Hero 600i,898,4.1,4 MB RAM | 3 MB ROM | Expandable Upto 32 GB,4.57,620 mAh Battery
+129,"Google Pixel 6a (Chalk, 128 GB)",26999,4.3,6 GB RAM | 128 GB ROM,15.6,12.2MP + 12MP | 8MP Front Camera
+130,"POCO M6 Pro 5G (Power Black, 64 GB)",10999,4.5,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.25,50MP + 2MP | 8MP Front Camera
+131,"MOTOROLA g72 (Meteorite Grey, 128 GB)",14999,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.64,108MP + 8MP + 2MP | 16MP Front Camera
+132,DIZO Star 500,1765,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 64 GB,7.11,0.3MP Rear Camera
+133,"POCO C50 (Country Green, 32 GB)",6299,4.0,3 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.56,8MP Dual Camera | 5MP Front Camera
+134,"APPLE iPhone 14 (Midnight, 128 GB)",67999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+135,Nokia 105 PLUS,1549,4.1,4 MB RAM | 4 MB ROM,4.5,0MP Front Camera
+136,"APPLE iPhone 14 (Purple, 128 GB)",67999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+137,"Infinix NOTE 12i (Metaverse Blue, 64 GB)",9499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,17.02,50 MP + 2 MP + QVGA | 8MP Front Camera
+138,itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,905,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0MP Front Camera
+139,"Infinix HOT 30 5G (Knight Black, 128 GB)",12499,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.22,50 MP + AI Lens | 8MP Front Camera
+140,"REDMI Note 12 (Lunar Black, 64 GB)",13999,4.1,6 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.94,50MP + 8MP + 2MP | 13MP Front Camera
+141,"realme 10 Pro 5G (Dark Matter, 128 GB)",19999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+142,"SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",11999,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+143,LAVA Hero 600i,898,4.1,4 MB RAM | 3 MB ROM | Expandable Upto 32 GB,4.57,620 mAh Battery
+144,"realme 10 Pro 5G (Hyperspace, 128 GB)",18999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+145,"realme 10 Pro 5G (Nebula Blue, 128 GB)",19999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+146,"realme 10 Pro 5G (Hyperspace, 128 GB)",19999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+147,"realme 10 Pro 5G (Nebula Blue, 128 GB)",18999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+148,itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,905,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0MP Front Camera
+149,"MOTOROLA Edge 40 (Nebula Green, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+150,"POCO C50 (Country Green, 32 GB)",6299,4.0,3 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.56,8MP Dual Camera | 5MP Front Camera
+151,Snexian Guru 310,699,3.3,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+152,"REDMI Note 12 (Lunar Black, 64 GB)",13999,4.1,6 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.94,50MP + 8MP + 2MP | 13MP Front Camera
+153,"realme C55 (Sunshower, 128 GB)",13999,4.4,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+154,"realme C55 (Rainy Night, 128 GB)",13999,4.4,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+155,GFive U220+,699,3.5,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+156,"vivo Y02t (Cosmic Grey, 64 GB)",9999,4.2,4 GB RAM | 64 GB ROM,16.54,8MP Rear Camera | 5MP Front Camera
+157,"realme C55 (Sunshower, 64 GB)",10999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+158,"realme C55 (Rainy Night, 64 GB)",10999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP | 8MP Front Camera
+159,"Infinix HOT 20 Play (Luna Blue, 64 GB)",7999,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,17.32,13Mp + AI Lens | 8MP Front Camera
+160,"REDMI 12C (Royal Blue, 64 GB)",8845,4.2,4 GB RAM | 64 GB ROM,17.04,50MP Rear Camera
+162,"REDMI Note 12 5G (Mystique Blue, 128 GB)",18999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+163,Kechaoda A26,995,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+164,"Google Pixel 6a (Charcoal, 128 GB)",26999,4.3,6 GB RAM | 128 GB ROM,15.6,12.2MP + 12MP | 8MP Front Camera
+165,"POCO M4 5G (Power Black, 64 GB)",12999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+166,"POCO X5 5G (Wildcat Blue, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+167,"SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",11999,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+168,LAVA A1,1169,4.2,24 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+169,"realme 10 Pro 5G (Hyperspace, 128 GB)",19999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+170,"REDMI Note 12 5G (Frosted Green, 128 GB)",18999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+171,"realme 10 Pro 5G (Nebula Blue, 128 GB)",18999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+172,"realme Narzo N53 (Feather Black, 128 GB)",12390,4.2,6 GB RAM | 128 GB ROM,17.12,50MP Rear Camera
+173,"Infinix Note 30 5G (Sunset Gold, 256 GB)",15999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 2 TB,17.22,108 MP + 2 MP+ AI Lens | 16MP Front Camera
+174,"POCO M4 Pro (Yellow, 128 GB)",13999,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.33,64MP + 8MP + 2MP | 16MP Front Camera
+175,"REDMI Note 12 Pro 5G (Stardust Purple, 128 GB)",23999,4.2,6 GB RAM | 128 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+176,"MOTOROLA Edge 40 (Eclipse Black, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+177,Nokia 105 SS 2021,1540,4.2,4 MB RAM | 4 MB ROM,4.5,800 mAh Lithium Ion Battery
+178,"REDMI 12C (Royal Blue, 64 GB)",8845,4.2,4 GB RAM | 64 GB ROM,17.04,50MP Rear Camera
+179,"vivo Y02t (Sunset Gold, 64 GB)",9999,4.2,4 GB RAM | 64 GB ROM,16.54,8MP Rear Camera | 5MP Front Camera
+180,"POCO X5 5G (Wildcat Blue, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+181,HOTLINE H310,649,3.5,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+182,HOTLINE H310,649,3.5,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+183,"OPPO Reno10 5G (Silvery Grey, 256 GB)",32999,4.2,8 GB RAM | 256 GB ROM,17.02,64MP + 32MP + 8MP | 32MP Front Camera
+184,"REDMI A2 (Aqua Blue, 64 GB)",7200,4.1,4 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+185,"REDMI A2 (Classic Black, 64 GB)",7199,4.1,4 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+186,"REDMI A2 (Classic Black, 64 GB)",6990,4.1,2 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+187,"REDMI A2 (Aqua Blue, 32 GB)",6698,4.1,2 GB RAM | 32 GB ROM,16.56,8MP Rear Camera
+188,"Infinix Note 30 5G (Interstellar Blue, 256 GB)",15999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 2 TB,17.22,108 MP + 2 MP+ AI Lens | 16MP Front Camera
+189,"REDMI Note 12 Pro 5G (Onyx Black, 128 GB)",23999,4.2,6 GB RAM | 128 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+190,"Infinix Note 30 5G (Interstellar Blue, 128 GB)",14999,4.1,4 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.22,108 MP + 2 MP+ AI Lens | 16MP Front Camera
+191,"realme Narzo 60 5G (?Cosmic Black, 128 GB)",18167,4.1,8 GB RAM | 128 GB ROM,16.33,64MP Rear Camera
+192,Nokia 106 4G,2199,3.8,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+193,LAVA A3 Power,1379,4.1,0 GB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+194,"REDMI 12 (Pastel Blue, 128 GB)",9999,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+195,Snexian Guru 310,699,3.3,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+196,"Infinix HOT 20 5G (Racing Black, 64 GB)",11499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+197,"Infinix HOT 30 5G (Miami Orange, 128 GB)",13499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.22,50 MP + AI Lens | 8MP Front Camera
+198,Micromax X708,1335,3.9,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+199,"MOTOROLA e13 (Aurora Green, 64 GB)",6499,4.0,2 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,13MP Rear Camera | 5MP Front Camera
+200,"REDMI Note 12 (Sunrise Gold, 64 GB)",13999,4.1,6 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.94,50MP + 8MP + 2MP | 13MP Front Camera
+201,"SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",14892,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+202,"realme 11 Pro 5G (Sunrise Beige, 256 GB)",24999,4.3,8 GB RAM | 256 GB ROM,17.02,100MP (OIS) + 2MP | 16MP Front Camera
+203,"REDMI Note 12 5G (Mystique Blue, 128 GB)",18999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+204,"POCO X4 Pro 5G (Laser Blue, 128 GB)",17999,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,64MP + 8MP + 2MP | 16MP Front Camera
+205,"REDMI A2 (Sea Green, 32 GB)",7190,4.1,2 GB RAM | 32 GB ROM,16.56,8MP Rear Camera
+206,"POCO M4 5G (Power Black, 64 GB)",12999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+207,"POCO X5 5G (Jaguar Black, 256 GB)",16999,4.1,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+208,"SAMSUNG Galaxy F13 (Nightsky Green, 128 GB)",11999,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+209,LAVA A1,899,4.2,24 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+210,"realme 10 Pro 5G (Dark Matter, 128 GB)",18999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,108MP + 2MP | 16MP Front Camera
+211,"REDMI Note 12 5G (Mystique Blue, 128 GB)",16999,4.0,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+212,Micromax X708,1270,3.9,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+213,GFive L228,1099,3.3,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,7.11,0.3MP Rear Camera
+214,"Infinix Zero 5G 2023 (Submariner Black, 128 GB)",14999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+215,"POCO M5 (Yellow, 128 GB)",10499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+216,GFive U873,674,3.5,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+217,"Tecno Camon 20 (Serenity Blue, 256 GB)",13599,4.3,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,64MP + 2MP | 32MP Front Camera
+218,"vivo Y02 (Cosmic Grey, 32 GB)",8499,4.2,3 GB RAM | 32 GB ROM,16.54,8MP Rear Camera | 5MP Front Camera
+219,"POCO X4 Pro 5G (Laser Blue, 128 GB)",17999,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,64MP + 8MP + 2MP | 16MP Front Camera
+220,LAVA Hero 600i,898,4.1,4 MB RAM | 3 MB ROM | Expandable Upto 32 GB,4.57,620 mAh Battery
+221,"realme Narzo N53 (Feather Gold, 64 GB)",10268,4.3,4 GB RAM | 64 GB ROM,17.12,50MP Rear Camera
+222,"MOTOROLA g42 (Atlantic Green, 64 GB)",9999,4.2,4 GB RAM | 64 GB ROM,16.26,50MP + 8MP + 2MP | 16MP Front Camera
+223,"REDMI 11 Prime (Flashy Black, 64 GB)",8999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP + 2MP | 8MP Front Camera
+224,Nokia 105 SS 2021,1540,4.2,4 MB RAM | 4 MB ROM,4.5,800 mAh Lithium Ion Battery
+225,"MOTOROLA g14 (Sky Blue, 128 GB)",9999,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 2MP | 8MP Front Camera
+226,Kechaoda A26,997,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+227,Kechaoda A26,999,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+228,"APPLE iPhone 14 (Starlight, 128 GB)",67999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+229,"SAMSUNG Galaxy F13 (Nightsky Green, 128 GB)",11999,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+230,"POCO X5 Pro 5G (Astral Black, 128 GB)",20999,4.3,6 GB RAM | 128 GB ROM,16.94,108MP + 8MP + 2MP | 16MP Front Camera
+231,"OnePlus 10R (Sierra Black, 128 GB)",29340,4.3,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera | 16MP Front Camera
+232,DIZO Star 300,1339,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 64 GB,4.5,0.3MP Rear Camera
+233,"Infinix Zero 5G 2023 (Submariner Black, 128 GB)",14999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+234,"REDMI 12 (Pastel Blue, 128 GB)",9999,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+235,"POCO X5 Pro 5G (Horizon Blue, 128 GB)",20999,4.3,6 GB RAM | 128 GB ROM,16.94,108MP + 8MP + 2MP | 16MP Front Camera
+236,"REDMI Note 12 5G (Matte Black, 128 GB)",18999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+237,"POCO M5 (Yellow, 128 GB)",10499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+238,Micromax X513+,1080,3.8,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+239,Micromax X513+,1151,3.8,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+240,Micromax X513+,1080,3.8,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+241,Micromax X513+,1151,3.8,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+242,"POCO M5 (Yellow, 128 GB)",10499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP Depth Sensor + 2MP Macro Sensor | 8MP Front Camera
+243,"realme narzo 50i Prime (Mint Green, 32 GB)",7763,4.2,3 GB RAM | 32 GB ROM,16.51,8MP Rear Camera
+244,"APPLE iPhone 14 (Blue, 128 GB)",67999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+245,"realme Narzo 60 5g (Cosmic Black, 256 GB)",20268,4.1,8 GB RAM | 256 GB ROM,16.33,64MP Rear Camera
+246,"realme Narzo 60 5G (Mars Orange, 256 GB)",20434,4.1,8 GB RAM | 256 GB ROM,16.33,64MP Rear Camera
+247,"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",16999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 8MP + 2MP | 8MP Front Camera
+248,"REDMI 12C (?Lavender Purple, 128 GB)",10351,4.1,6 GB RAM | 128 GB ROM,17.04,50MP Rear Camera
+249,"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",13990,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 2MP | 13MP Front Camera
+250,"Infinix Zero 5G 2023 (Coral Orange, 128 GB)",14999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+251,"realme Narzo N53 (Feather Black, 128 GB)",12399,4.2,6 GB RAM | 128 GB ROM,17.12,50MP Rear Camera
+252,"realme Narzo N53 (Feather Gold, 128 GB)",12006,4.2,6 GB RAM | 128 GB ROM,17.12,50MP Rear Camera
+253,"Infinix Zero 5G 2023 (Pearly White, 128 GB)",14999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+254,Nokia 106 4G,2645,3.8,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+255,"Infinix HOT 30 5G (Aurora Blue, 128 GB)",13499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.22,50 MP + AI Lens | 8MP Front Camera
+256,"SAMSUNG Galaxy F13 (Sunrise Copper, 128 GB)",11999,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 5MP + 2MP | 8MP Front Camera
+257,"REDMI Note 12 Pro 5G (Stardust Purple, 256 GB)",26999,4.2,8 GB RAM | 256 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+258,"REDMI A2+ (Sea Green, 64 GB)",8080,4.1,4 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+259,"REDMI A2+ (?Aqua Blue, 64 GB)",8051,4.1,4 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+260,"realme 11 Pro+ 5G (Oasis Green, 256 GB)",29999,4.3,12 GB RAM | 256 GB ROM,17.02,200MP (OIS) + 8MP + 2MP | 32MP Front Camera
+261,"REDMI K50i 5G (Stealth Black, 256 GB)",23999,4.2,8 GB RAM | 256 GB ROM,16.76,64MP + 8MP + 2MP | 16MP Front Camera
+262,Nokia 105,1549,4.2,4 MB RAM | 4 MB ROM,4.57,0.03MP Rear Camera
+263,itel it2163s,999,4.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+264,Kechaoda K55,1200,3.8,32 MB RAM | 64 MB ROM | Expandable Upto 32 GB,4.57,1.3MP Rear Camera
+265,"REDMI Note 12 Pro 5G (Glacier Blue, 256 GB)",26999,4.2,8 GB RAM | 256 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+266,"realme Narzo N55 (Prime Blue, 64 GB)",11240,4.2,4 GB RAM | 64 GB ROM,17.07,64MP Rear Camera
+267,Nokia 106 4G,2645,3.8,32 MB RAM | 32 MB ROM,4.5,0MP | 0MP Front Camera
+268,LAVA Hero 600i,898,4.1,4 MB RAM | 3 MB ROM | Expandable Upto 32 GB,4.57,620 mAh Battery
+269,LAVA A5,1449,4.1,32 MB RAM | 24 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+270,"POCO X5 Pro 5G (Yellow, 128 GB)",20999,4.3,6 GB RAM | 128 GB ROM,16.94,108MP + 8MP + 2MP | 16MP Front Camera
+271,"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",16999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 8MP + 2MP | 8MP Front Camera
+272,"vivo Y16 (Steller Black, 64 GB)",10999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+273,"vivo Y16 (Steller Black, 128 GB)",12499,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+274,"IQOO Z7S 5G (Pacific Night, 128 GB)",20429,4.3,8 GB RAM | 128 GB ROM,16.26,64MP Rear Camera
+275,Micromax X513+,1151,3.8,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+276,"realme 11 Pro+ 5G (Oasis Green, 256 GB)",29999,4.3,12 GB RAM | 256 GB ROM,17.02,200MP (OIS) + 8MP + 2MP | 32MP Front Camera
+277,Micromax X513+,1080,3.8,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+278,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1470,4.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+279,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1470,4.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+280,LAVA A3 VIBE,1299,4.2,32 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera | 0.3MP Front Camera
+281,"REDMI K50i 5G (Stealth Black, 256 GB)",23999,4.2,8 GB RAM | 256 GB ROM,16.76,64MP + 8MP + 2MP | 16MP Front Camera
+282,"realme Narzo N55 (Prime Blue, 128 GB)",13418,4.2,6 GB RAM | 128 GB ROM,17.07,64MP Rear Camera
+283,PHILIPS Xenium E209,1299,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,6.1,0.08MP Rear Camera
+284,"REDMI Note 12 5G (Sunrise Gold, 128 GB)",18999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+285,Kechaoda K115,1110,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+286,Kechaoda K115,1120,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+287,LAVA A1 Josh Bol,1059,3.8,0 MB ROM | Expandable Upto 32 GB,4.5,800 mAh Battery
+288,"realme Narzo N55 (Prime Black, 128 GB)",13315,4.2,6 GB RAM | 128 GB ROM,17.07,64MP Rear Camera
+289,PHILIPS Xenium E209,1299,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,6.1,0.08MP Rear Camera
+290,"REDMI Note 12 5G (Sunrise Gold, 128 GB)",18999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+291,"realme Narzo N55 (Prime Blue, 128 GB)",13418,4.2,6 GB RAM | 128 GB ROM,17.07,64MP Rear Camera
+292,"OnePlus 11R 5G (Galactic Silver, 128 GB)",39695,4.5,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera
+293,"realme 11 Pro 5G (Sunrise Beige, 128 GB)",23999,4.3,8 GB RAM | 128 GB ROM,17.02,100MP (OIS) + 2MP | 16MP Front Camera
+294,"realme 11 Pro 5G (Astral Black, 256 GB)",24999,4.3,8 GB RAM | 256 GB ROM,17.02,100MP (OIS) + 2MP | 16MP Front Camera
+295,"realme 11 Pro 5G (Oasis Green, 256 GB)",24999,4.3,8 GB RAM | 256 GB ROM,17.02,100MP (OIS) + 2MP | 16MP Front Camera
+296,"POCO X5 Pro 5G (Astral Black, 128 GB)",20999,4.3,6 GB RAM | 128 GB ROM,16.94,108MP + 8MP + 2MP | 16MP Front Camera
+297,LAVA A1,1229,4.2,24 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+298,"REDMI 12 (Moonstone Silver, 128 GB)",9999,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+299,itel It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1135,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+300,LAVA A1,1228,4.2,4 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+301,"SAMSUNG GALAXY M13 5G (Aqua Green, 64 GB)",12949,4.2,4 GB RAM | 64 GB ROM,16.51,50MP Rear Camera
+302,"vivo Y16 (Steller Black, 64 GB)",10999,4.2,3 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+303,Nokia 105 SS 2023,1475,3.8,4 MB RAM | 4 MB ROM,4.57,1000 mAh Battery
+304,"REDMI A1 (Light Green, 32 GB)",6495,4.2,2 GB RAM | 32 GB ROM,16.56,5MP Rear Camera
+305,"REDMI A1 (Black, 32 GB)",6415,4.2,2 GB RAM | 32 GB ROM,16.56,5MP Rear Camera | 5MP Front Camera
+306,"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",16999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 8MP + 2MP | 8MP Front Camera
+307,Nokia 105 SS 2023,1399,3.8,4 MB RAM | 4 MB ROM,4.57,1000 mAh Battery
+308,Nokia 105,1549,4.2,4 MB RAM | 4 MB ROM,4.57,0.03MP Rear Camera
+309,GFive U707,725,3.6,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+310,"REDMI K50i 5G (Quick Silver, 256 GB)",23999,4.2,8 GB RAM | 256 GB ROM,16.76,64MP + 8MP + 2MP | 16MP Front Camera
+312,"POCO M4 5G (Cool Blue, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+313,"REDMI Note 11 (Horizon Blue, 128 GB)",13868,4.2,6 GB RAM | 128 GB ROM,16.33,50MP Rear Camera
+314,"realme Narzo N53 (Feather Gold, 128 GB)",12006,4.2,6 GB RAM | 128 GB ROM,17.12,50MP Rear Camera
+315,"SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)",18999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP (OIS) + 8MP + 2MP | 13MP Front Camera
+316,"vivo T2x 5G (Marine Blue, 128 GB)",15999,4.3,8 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+317,"vivo T2x 5G (Glimmer Black, 128 GB)",15999,4.3,8 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+318,"vivo T2x 5G (Aurora Gold, 128 GB)",15999,4.3,8 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 8MP Front Camera
+319,"REDMI 12C (?Lavender Purple, 128 GB)",10351,4.1,6 GB RAM | 128 GB ROM,17.04,50MP Rear Camera
+320,"realme Narzo 60 5G (Mars Orange, 256 GB)",20434,4.1,8 GB RAM | 256 GB ROM,16.33,64MP Rear Camera
+321,"POCO X5 5G (Supernova Green, 256 GB)",16999,4.1,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+322,"realme Narzo 60 5g (Cosmic Black, 256 GB)",20268,4.1,8 GB RAM | 256 GB ROM,16.33,64MP Rear Camera
+323,Kechaoda A26,997,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+324,Kechaoda A26,999,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+325,"REDMI 12C (Lavender Purple, 64 GB)",8549,4.2,4 GB RAM | 64 GB ROM,17.04,50MP Rear Camera
+326,"REDMI 12C (Mint Green, 128 GB)",10372,4.1,6 GB RAM | 128 GB ROM,17.04,50MP Rear Camera
+327,"REDMI 12C (Matte Black, 64 GB)",8618,4.2,4 GB RAM | 64 GB ROM,17.04,50MP Rear Camera
+328,"REDMI 12c (Matte Black, 128 GB)",10315,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.04,50MP Rear Camera | 5MP Front Camera
+329,"REDMI 12c (Royal Blue, 128 GB)",10416,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.04,50MP Rear Camera | 5MP Front Camera
+330,LAVA A1 Josh BOL,1039,4.2,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.5,1000 mAh Battery
+331,Jmax J06,699,3.7,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+332,"REDMI Note 12 (Ice Blue, 128 GB)",15999,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,50MP + 8MP + 2MP | 13MP Front Camera
+333,"OPPO A78 5G (Glowing Black, 128 GB)",18999,4.4,8 GB RAM | 128 GB ROM,16.66,50MP + 2MP | 8MP Front Camera
+334,"OPPO A78 5G (Glowing Blue, 128 GB)",18999,4.4,8 GB RAM | 128 GB ROM,16.66,50MP + 2MP | 8MP Front Camera
+335,GFive U106,725,3.5,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+336,Micromax S115,902,3.7,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+337,itel iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,1561,3.9,8 MB RAM | 8 MB ROM,6.1,0.3MP Rear Camera
+338,"realme 11 Pro+ 5G (Sunrise Beige, 256 GB)",29999,4.3,12 GB RAM | 256 GB ROM,17.02,200MP (OIS) + 8MP + 2MP | 32MP Front Camera
+339,"realme 11 Pro+ 5G (Sunrise Beige, 256 GB)",27999,4.3,8 GB RAM | 256 GB ROM,17.02,200MP (OIS) + 8MP + 2MP | 32MP Front Camera
+340,"realme 11 Pro+ 5G (Astral Black, 256 GB)",29999,4.3,12 GB RAM | 256 GB ROM,17.02,200MP (OIS) + 8MP + 2MP | 32MP Front Camera
+341,"vivo Y16 (Steller Black, 128 GB)",12499,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+342,"realme 11 Pro+ 5G (Astral Black, 256 GB)",27999,4.3,8 GB RAM | 256 GB ROM,17.02,200MP (OIS) + 8MP + 2MP | 32MP Front Camera
+343,LAVA GEM POWER,1669,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 MB,7.11,2MP Rear Camera
+344,Snexian GURU 312,670,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+345,"POCO M4 5G (Cool Blue, 64 GB)",12999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+346,Nokia TA-1174 / TA-1299,1595,4.2,4 MB RAM | 4 MB ROM,4.57,800 mAh Battery
+347,"vivo Y16 (Steller Black, 64 GB)",10999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+348,"realme GT NEO 2 (NEO Black, 256 GB)",25999,4.4,12 GB RAM | 256 GB ROM,16.81,64MP + 8MP + 2MP | 16MP Front Camera
+349,"POCO M6 Pro 5G (Forest Green, 64 GB)",10999,4.5,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.25,50MP + 2MP | 8MP Front Camera
+350,itel It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1499,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+351,A10E,1449,4.1,4 MB RAM | 32 MB ROM | Expandable Upto 64 GB,4.57,800 mAh Battery
+352,"vivo Y27 (Garden Green, 128 GB)",14999,4.7,6 GB RAM | 128 GB ROM,16.87,50MP + 2MP | 8MP Front Camera
+353,"vivo Y27 (Burgundy Black, 128 GB)",14999,4.7,6 GB RAM | 128 GB ROM,16.87,50MP + 2MP | 8MP Front Camera
+354,itel it2163s,999,4.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+355,"POCO M4 5G (Yellow, 64 GB)",12999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+356,"SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",14892,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+357,"vivo Y16 (Drizzling Gold, 64 GB)",12845,4.2,3 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+358,"vivo Y16 (Steller Black, 64 GB)",10999,4.2,3 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+359,Micromax X379+,1050,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 8 GB,4.5,0.3MP Rear Camera
+360,"REDMI Note 12 5G (Sunrise Gold, 128 GB)",16999,4.0,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+361,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1470,4.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+362,"MOTOROLA g13 (Matte Charcoal, 128 GB)",9999,4.0,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 2MP + 2MP | 8MP Front Camera
+363,"POCO C51 - Locked with Airtel Prepaid (Power Black, 64 GB)",5999,4.1,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.56,8MP Dual Rear Camera | 5MP Front Camera
+364,Micromax X778,1472,3.9,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+365,"realme 9i 5G (Soulful Blue, 64 GB)",14999,4.5,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + 2MP + 2MP | 8MP Front Camera
+366,"I Kall S1 Pro (Jordy Blue, 128 GB)",9999,3.7,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,17.27,13MP + 5MP + 2MP | 8MP Front Camera
+367,"REDMI 10 (Caribbean Green, 64 GB)",9999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.02,50MP + 2MP | 5MP Front Camera
+368,GFive U106,725,3.5,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+369,Micromax S115,936,3.7,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+370,"REDMI A2 (Sea Green, 32 GB)",7190,4.1,2 GB RAM | 32 GB ROM,16.56,8MP Rear Camera
+371,"SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",13959,4.2,4 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+372,"REDMI Note 11 (Horizon Blue, 128 GB)",13868,4.2,6 GB RAM | 128 GB ROM,16.33,50MP Rear Camera
+373,"OnePlus 11R 5G (Sonic Black, 128 GB)",38880,4.5,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera | 16MP Front Camera
+374,a 10e,1319,4.0,0 MB ROM | Expandable Upto 32 GB,4.57,800 mAh Battery
+375,Micromax X379+,1040,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 8 GB,4.5,0.3MP Rear Camera
+376,"POCO M4 5G (Power Black, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+377,"REDMI 10 (Midnight Black, 64 GB)",9999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.02,50MP + 2MP | 5MP Front Camera
+378,Jmax J06,699,3.7,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+379,"REDMI Note 12 Pro 5G (Onyx Black, 256 GB)",26999,4.2,8 GB RAM | 256 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+380,Kechaoda K115,1129,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+381,Micromax X413,925,4.0,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+382,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1470,4.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+383,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1470,4.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+384,"MOTOROLA Edge 30 (Meteor Grey, 128 GB)",22999,4.1,8 GB RAM | 128 GB ROM,16.64,50MP + 50MP + 2MP | 32MP Front Camera
+385,Kechaoda K115,1129,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+386,Kechaoda K115,1118,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+387,Micromax S115,902,3.7,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+388,LAVA GEM POWER,1669,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 MB,7.11,2MP Rear Camera
+389,"REDMI Note 12 Pro 5G (Onyx Black, 256 GB)",26999,4.2,8 GB RAM | 256 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+390,"realme GT 2 (Paper White, 128 GB)",24999,4.3,8 GB RAM | 128 GB ROM,16.81,50MP + 8MP + 2MP | 16MP Front Camera
+391,"realme GT 2 (Steel Black, 128 GB)",24999,4.3,8 GB RAM | 128 GB ROM,16.81,50MP + 8MP + 2MP | 16MP Front Camera
+392,"MOTOROLA Edge 30 Ultra (Starlight White, 256 GB)",49999,4.3,12 GB RAM | 256 GB ROM,16.94,200MP + 50MP + 12MP | 60MP Front Camera
+393,"Tecno Camon 20 (Serenity Blue, 256 GB)",13599,4.3,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,64MP + 2MP | 32MP Front Camera
+394,"MOTOROLA g13 (Matte Charcoal, 128 GB)",9999,4.0,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 2MP + 2MP | 8MP Front Camera
+395,Micromax X379+,1040,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 8 GB,4.5,0.3MP Rear Camera
+396,DIZO Star 300,1378,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 64 GB,4.5,0.3MP Rear Camera
+397,"I Kall S1 Pro (Jordy Blue, 128 GB)",9999,3.7,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,17.27,13MP + 5MP + 2MP | 8MP Front Camera
+398,"Infinix Zero 5G 2023 TURBO (Pearly White, 256 GB)",16999,4.0,8 GB RAM | 256 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+399,"REDMI Note 12 5G (Frosted Green, 128 GB)",16999,4.0,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+400,Nokia 130M DS 2023,2189,0.0,4 MB RAM | 4 MB ROM,6.1,1450 mAh Battery
+401,Micromax X413,925,4.0,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+402,LAVA A1 2021,1129,4.0,32 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+403,KARBONN K9 Yuva,1299,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+404,"APPLE iPhone 13 (Midnight, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+405,Kechaoda A27,997,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+406,Kechaoda A27,999,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+407,"REDMI Note 12 5G (Sunrise Gold, 256 GB)",20999,4.1,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+408,LAVA A1 2021,1129,4.0,32 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+409,KARBONN K9 Yuva,1299,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+410,Kechaoda A27,999,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+411,Kechaoda A27,997,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,1.68,800 mAh Battery
+412,"REDMI Note 12 5G (Sunrise Gold, 256 GB)",20999,4.1,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+413,"APPLE iPhone 13 (Midnight, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+414,"REDMI 10 (Caribbean Green, 64 GB)",9999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.02,50MP + 2MP | 5MP Front Camera
+415,KARBONN K9 Yuva,1299,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+416,"Infinix Zero 5G 2023 TURBO (Coral Orange, 256 GB)",16999,4.0,8 GB RAM | 256 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+417,Kechaoda K115,1129,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+418,Nokia TA-1174 / TA-1299,1595,4.2,4 MB RAM | 4 MB ROM,4.57,800 mAh Battery
+419,"OnePlus 11R 5G (Sonic Black, 256 GB)",43268,4.5,16 GB RAM | 256 GB ROM,17.02,50MP Rear Camera
+420,I Kall K100,699,3.3,32 MB RAM | 32 MB ROM | Expandable Upto 32 MB,4.57,1000 mAh Battery
+421,"OnePlus 11R 5G (Sonic Black, 128 GB)",39674,4.5,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera
+422,LAVA A1 2021,1149,4.1,0 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+423,KARBONN K531,1399,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+424,KARBONN K531,1399,4.0,32 MB RAM | 32 MB ROM,6.1,2MP Rear Camera
+425,KARBONN K531,1390,4.0,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+426,KARBONN K531,1399,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+427,"REDMI Note 11S (Polar White, 64 GB)",13641,4.1,6 GB RAM | 64 GB ROM,16.33,108MP Rear Camera
+428,"REDMI Note 12 Pro+ 5G (Arctic White, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+429,"REDMI Note 12 Pro+ 5G (Obsidian Black, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+430,"REDMI Note 12 (Sunrise Gold, 128 GB)",15999,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,50MP + 8MP + 2MP | 13MP Front Camera
+431,LAVA A1 Josh 2021,1099,4.1,0 MB ROM | Expandable Upto 32 GB,4.5,800 mAh Li-ion Battery
+432,"Infinix Hot 20 5G (Blaster Green, 128 GB)",13499,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+433,"Infinix Hot 20 5G (Space Blue, 128 GB)",13499,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+434,"MOTOROLA g82 5G (Meterorite Grey, 128 GB)",21499,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 8MP + 2MP | 16MP Front Camera
+435,"OnePlus 11R 5G (Sonic Black, 256 GB)",43268,4.5,16 GB RAM | 256 GB ROM,17.02,50MP Rear Camera
+436,I Kall K100,699,3.3,32 MB RAM | 32 MB ROM | Expandable Upto 32 MB,4.57,1000 mAh Battery
+437,"REDMI Note 12 5G (Sunrise Gold, 256 GB)",20999,4.1,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.94,48MP + 8MP + 2MP | 13MP Front Camera
+438,"I Kall S1 Plus (Golden, 128 GB)",9999,0.0,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,17.27,13MP + 5MP + 2MP | 8MP Front Camera
+439,KARBONN K9 Yuva,1299,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+440,KARBONN K9 Yuva,1299,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+441,Kechaoda K10,1049,3.9,32 MB RAM | 32 MB ROM,1.68,300 mAh Battery
+442,"OnePlus 11R 5G (Sonic Black, 128 GB)",39674,4.5,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera
+443,"APPLE iPhone 13 (Starlight, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+444,Kechaoda K10,1120,3.9,32 MB RAM | 32 MB ROM,1.68,300 mAh Battery
+445,"POCO X5 Pro 5G (Yellow, 256 GB)",22999,4.3,8 GB RAM | 256 GB ROM,16.94,108MP + 8MP + 2MP | 16MP Front Camera
+446,Micromax X412,918,3.9,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+447,LAVA A1,1220,4.2,24 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+448,Nokia 150 TA-1235 DS,2998,4.1,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+449,Kechaoda K60,1775,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera | 0.3MP Front Camera
+450,"REDMI Note 11S (Polar White, 64 GB)",13641,4.1,6 GB RAM | 64 GB ROM,16.33,108MP Rear Camera
+451,KARBONN K531,1399,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+452,KARBONN K531,1399,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+453,KARBONN K531,1399,4.0,32 MB RAM | 32 MB ROM,6.1,2MP Rear Camera
+454,KARBONN K531,1390,4.0,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+455,LAVA Flip,1990,4.1,56 MB RAM | 56 MB ROM,6.1,0.08MP Rear Camera
+456,"vivo Y16 (Drizzling Gold, 32 GB)",12489,4.2,3 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+457,"vivo Y16 (Steller Black, 32 GB)",12489,4.2,3 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+458,"OPPO A17k (Blue, 64 GB)",9499,4.5,3 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.66,8MP Rear Camera | 5MP Front Camera
+459,"realme GT NEO 2 (NEO Black, 256 GB)",25999,4.4,12 GB RAM | 256 GB ROM,16.81,64MP + 8MP + 2MP | 16MP Front Camera
+460,A10E,1449,4.1,4 MB RAM | 32 MB ROM | Expandable Upto 64 GB,4.57,800 mAh Battery
+461,LAVA A1,1220,4.2,24 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+462,"IQOO Z7S 5G (Norway Blue, 128 GB)",20364,4.3,8 GB RAM | 128 GB ROM,16.26,64MP Rear Camera
+463,"IQOO Z7s 5G (?Pacific Night, 128 GB)",19000,4.3,6 GB RAM | 128 GB ROM,16.21,64MP Rear Camera
+464,"APPLE iPhone 13 (Starlight, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+465,Jmax J30,699,3.6,32 MB RAM | 32 MB ROM,4.57,2MP Rear Camera
+466,LAVA A7 Star,1499,4.0,24 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera | 0MP Front Camera
+467,"Infinix Hot 20 5G (Blaster Green, 128 GB)",13499,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+468,"Infinix Hot 20 5G (Space Blue, 128 GB)",13499,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + AI Lens | 8MP Front Camera
+469,"vivo Y16 (Drizzling Gold, 128 GB)",12499,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+470,"vivo V27 5G (Noble Black, 128 GB)",32999,4.4,8 GB RAM | 128 GB ROM,17.22,50MP (OIS) + 8MP + 2MP | 50MP Front Camera
+471,Snexian Rock,1499,4.0,32 MB RAM | 32 MB ROM,4.32,0.3MP Rear Camera
+472,KARBONN KX 29,1499,3.8,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+473,"APPLE iPhone 13 (Pink, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+474,Kechaoda K115,1110,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+475,Kechaoda K115,1088,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+476,"realme 9i 5G (Soulful Blue, 64 GB)",14999,4.5,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.76,50MP + 2MP + 2MP | 8MP Front Camera
+477,"I Kall S1 Plus (Golden, 128 GB)",9999,0.0,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,17.27,13MP + 5MP + 2MP | 8MP Front Camera
+478,"MOTOROLA g82 5G (Meterorite Grey, 128 GB)",21499,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 8MP + 2MP | 16MP Front Camera
+479,itel it2163s,999,4.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+480,KARBONN K9 Yuva,1294,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+481,"APPLE iPhone 13 (Pink, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+482,LAVA A7 Star,1499,4.0,24 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera | 0MP Front Camera
+483,"OPPO A17 (Midnight Black, 64 GB)",11999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.66,50MP + 0.3MP + 0.3MP | 5MP Front Camera
+484,"Infinix Zero 5G 2023 TURBO (Coral Orange, 256 GB)",16999,4.0,8 GB RAM | 256 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+485,"Tecno Pop 7 pro (?Endless Black, 64 GB)",6789,4.0,2 GB RAM | 64 GB ROM,16.66,12MP Rear Camera
+486,"OnePlus Nord CE3 5G (Aqua Surge, 256 GB)",28999,0.0,12 GB RAM | 256 GB ROM,17.02,50MP Rear Camera
+487,KARBONN K531,1391,4.0,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+488,"SAMSUNG GALAXY M13 5G (Midnight Blue, 64 GB)",13199,4.2,4 GB RAM | 64 GB ROM,16.51,50MP Rear Camera
+489,"Infinix Hot 12 (Exploratory Blue, 64 GB)",8999,4.2,4 GB RAM | 64 GB ROM,17.32,50 MP + 2 MP Depth Lens + AI Lens | 8MP Front Camera
+490,"Infinix Hot 12 (7° Purple, 64 GB)",8999,4.2,4 GB RAM | 64 GB ROM,17.32,50 MP + 2 MP Depth Lens + AI Lens | 8MP Front Camera
+491,"POCO M4 5G (Yellow, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+492,HOTLINE CLASSIC,649,0.0,32 MB RAM | 32 MB ROM,4.5,1.3MP Rear Camera
+493,LAVA A1 2021,1129,4.0,32 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+494,HOTLINE CLASSIC,649,0.0,32 MB RAM | 32 MB ROM,4.5,1.3MP Rear Camera
+495,Nokia 110,2195,4.1,4 MB RAM | 4 MB ROM,4.5,0.08MP Rear Camera
+496,"IQOO Z7S 5G (Norway Blue, 128 GB)",20364,4.3,8 GB RAM | 128 GB ROM,16.26,64MP Rear Camera
+497,"IQOO Z7s 5G (?Pacific Night, 128 GB)",19341,4.3,6 GB RAM | 128 GB ROM,16.21,64MP Rear Camera
+498,Micromax X512,979,4.0,30 MB RAM | 24 MB ROM,4.5,1750 mAh Battery
+499,"REDMI A1 (Black, 32 GB)",6100,4.2,2 GB RAM | 32 GB ROM,16.56,5MP Rear Camera | 5MP Front Camera
+500,"OPPO A78 5G (Glowing Black, 128 GB)",18999,4.4,8 GB RAM | 128 GB ROM,16.66,50MP + 2MP | 8MP Front Camera
+501,"OPPO A78 5G (Glowing Blue, 128 GB)",18999,4.4,8 GB RAM | 128 GB ROM,16.66,50MP + 2MP | 8MP Front Camera
+502,Jmax J30,699,3.6,32 MB RAM | 32 MB ROM,4.57,2MP Rear Camera
+503,Nokia 6310,3499,3.9,8 MB RAM | 16 MB ROM,7.11,0.3MP Rear Camera
+504,"POCO M4 5G (Yellow, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+505,Jmax J30,699,3.6,32 MB RAM | 32 MB ROM,4.57,2MP Rear Camera
+506,"APPLE iPhone 13 (Green, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+507,"I Kall King Talking, Contact icon and Auto Call Recording",774,3.6,32 MB RAM | 64 MB ROM,4.57,0.3MP Rear Camera
+508,"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",19999,4.4,8 GB RAM | 128 GB ROM,17.07,108MP Rear Camera
+509,"vivo V27 5G (Magic Blue, 128 GB)",32999,4.4,8 GB RAM | 128 GB ROM,17.22,50MP (OIS) + 8MP + 2MP | 50MP Front Camera
+510,"IQOO Z7s 5G (Norway Blue, 128 GB)",19143,4.3,6 GB RAM | 128 GB ROM,16.21,64MP Rear Camera
+511,"vivo Y16 (Drizzling Gold, 128 GB)",12499,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+512,"vivo Y16 (Drizzling Gold, 32 GB)",12489,4.2,3 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+513,"SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)",20999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP (OIS) + 8MP + 2MP | 13MP Front Camera
+514,"realme GT NEO 2 (NEO Black, 128 GB)",21999,4.4,8 GB RAM | 128 GB ROM,16.81,64MP + 8MP + 2MP | 16MP Front Camera
+515,"realme 10 Pro+ 5G (Dark Matter, 128 GB)",22999,4.4,6 GB RAM | 128 GB ROM,17.02,108MP + 8MP + 2MP | 16MP Front Camera
+516,"SAMSUNG Galaxy A14 5G (Black, 128 GB)",17999,4.0,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 2MP | 13MP Front Camera
+517,"realme 10 Pro+ 5G (Hyperspace, 128 GB)",22999,4.4,6 GB RAM | 128 GB ROM,17.02,108MP + 8MP + 2MP | 16MP Front Camera
+518,"realme 10 Pro+ 5G (Nebula Blue, 128 GB)",22999,4.4,6 GB RAM | 128 GB ROM,17.02,108MP + 8MP + 2MP | 16MP Front Camera
+519,"realme 10 Pro+ 5G (Dark Matter, 128 GB)",23999,4.4,8 GB RAM | 128 GB ROM,17.02,108MP + 8MP + 2MP | 16MP Front Camera
+520,"SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)",20999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP (OIS) + 8MP + 2MP | 13MP Front Camera
+521,Kechaoda K115,1109,4.1,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+522,"APPLE iPhone 14 Plus (Midnight, 128 GB)",76999,4.6,128 GB ROM,17.02,12MP + 12MP | 12MP Front Camera
+523,Snexian GURU 312,670,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+524,Snexian GURU 312,670,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+525,"REDMI A1 (Light Blue, 32 GB)",6258,4.2,2 GB RAM | 32 GB ROM,16.56,5MP Rear Camera
+526,itel It2171 Keypad Mobile|1000 mAh battery|Expandable Storage upto 32GB,999,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+527,"Tecno Spark Go 2023 (Orange, 64 GB)",7799,4.1,4 GB RAM | 64 GB ROM,16.66,13MP Rear Camera
+528,"realme Narzo 50A (Oxygen Green, 128 GB)",11890,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 256 GB,16.51,50MP + 2MP + 2MP | 8MP Front Camera
+529,itel iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,1479,3.9,8 MB RAM | 8 MB ROM,6.1,0.3MP Rear Camera
+530,Snexian ROCK 310,699,3.4,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+531,"OnePlus Nord 3 5G (Tempest Gray, 128 GB)",32458,4.5,8 GB RAM | 128 GB ROM,17.12,50MP Rear Camera
+532,"I Kall K450 Pro (Blue, 64 GB)",5999,0.0,4 GB RAM | 64 GB ROM | Expandable Upto 128 GB,15.9,13MP Rear Camera | 8MP Front Camera
+533,"I Kall S1 Pro (Electric Purple, 128 GB)",9999,3.7,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,17.27,13MP + 5MP + 2MP | 8MP Front Camera
+534,KARBONN K9 Yuva,1299,3.9,64 MB RAM | 32 KB ROM,4.57,2MP Rear Camera
+535,"Tecno Spark Go 2023 (UYUNI BLUE, 32+3 GB)",6598,4.1,3 GB RAM | 32+3 GB ROM,16.66,13MP Rear Camera
+536,"OPPO A17 (Sunlight Orange, 64 GB)",11999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.66,50MP + 0.3MP + 0.3MP | 5MP Front Camera
+537,"SAMSUNG GALAXY M13 5G (Stardust Brown, 64 GB)",12890,4.2,4 GB RAM | 64 GB ROM,16.51,50MP Rear Camera
+538,"REDMI Note 12 Pro+ 5G (Iceberg Blue, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+539,"REDMI Note 12 Pro 5G (Stardust Purple, 128 GB)",24999,4.2,8 GB RAM | 128 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+540,I Kall K3310,744,3.6,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+541,KARBONN K310i,959,3.6,10 MB RAM | 10 MB ROM,4.57,800 mAh Battery
+542,KARBONN K310i,968,3.6,10 MB RAM | 10 MB ROM,4.57,800 mAh Battery
+543,"Mi 10i (Midnight Black, 128 GB)",18990,4.3,6 GB RAM | 128 GB ROM,16.94,108MP + 8MP + 2MP + 2MP | 16MP Front Camera
+544,"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",13990,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 2MP | 13MP Front Camera
+545,Cellecor X3,975,3.5,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+546,Cellecor X3,1022,3.5,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+547,Cellecor X3,968,3.5,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+548,"POCO F5 5G (Snowstorm White, 256 GB)",27999,4.3,8 GB RAM | 256 GB ROM,16.94,64MP (OIS) + 8MP + 2MP | 16MP Front Camera
+549,"OnePlus 10R (Forest Green, 128 GB)",29940,4.3,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera | 16MP Front Camera
+550,"I Kall King Talking, Contact icon and Auto Call Recording",737,3.6,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+551,"vivo Y56 5G (Black Engine, 128 GB)",18999,4.2,8 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 16MP Front Camera
+552,"SAMSUNG GALAXY M13 (Midnight Blue, 128 GB)",12898,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+553,"SAMSUNG Galaxy M33 5G (Emerald Brown, 128 GB)",17407,4.2,8 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+554,"REDMI Note 12 Pro 5G (Glacier Blue, 128 GB)",24999,4.2,8 GB RAM | 128 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+555,Kechaoda K10,1180,3.9,32 MB RAM | 32 MB ROM,1.68,300 mAh Battery
+556,Micromax X413,932,4.0,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+557,"OPPO A17k (Navy Blue, 64 GB)",9499,4.5,3 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.66,8MP Rear Camera | 5MP Front Camera
+558,Nokia 130 M DS 2023,2099,0.0,4 MB RAM | 4 MB ROM,6.1,1450 mAh Battery
+559,KARBONN KX 29,1499,3.8,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+560,KARBONN KX 29,1497,3.8,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+561,"Tecno Pop 7 pro (?Endless Black, 64 GB)",7429,4.2,3 GB RAM | 64 GB ROM,16.66,12MP Rear Camera
+562,MTR S1000,1100,3.6,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+563,"vivo Y56 5G (Orange Shimmer, 128 GB)",17999,4.2,4 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 16MP Front Camera
+564,"vivo Y56 5G (Black Engine, 128 GB)",17999,4.2,4 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 16MP Front Camera
+565,"Infinix Zero 20 (DEEP GRAY, 128 GB)",15499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 13MP + 2MP | 60 MP with OIS
+566,"Infinix Zero 20 (Green Fantasy, 128 GB)",15499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 13MP + 2MP | 60 MP with OIS
+567,"REDMI Note 12 Pro+ 5G (Iceberg Blue, 256 GB)",32999,4.2,12 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+568,"LAVA YUVA 2 PRO (LAVENDER, 64 GB)",8799,4.1,4 GB RAM | 64 GB ROM,16.51,13MP Rear Camera
+569,"OPPO Reno10 Pro 5G (Glossy Purple, 256 GB)",39999,4.3,12 GB RAM | 256 GB ROM,17.02,50MP + 32MP + 8MP | 32MP Front Camera
+570,"OPPO Reno10 Pro 5G (Silvery Grey, 256 GB)",39999,4.3,12 GB RAM | 256 GB ROM,17.02,50MP + 32MP + 8MP | 32MP Front Camera
+571,"OPPO A58 (Dazzling Green, 128 GB)",14999,0.0,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,50MP + 2MP | 8MP Front Camera
+572,"OPPO A58 (Glowing Black, 128 GB)",14999,0.0,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,50MP + 2MP | 8MP Front Camera
+573,"OPPO A17K (Navy Blue, 64 GB)",9890,4.5,3 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.66,8MP Rear Camera | 5MP Front Camera
+574,"REDMI 11 Prime (Playful Green, 64 GB)",8999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP + 2MP | 8MP Front Camera
+575,itel U30 keypad Mobile|1200 mAh battery|Expandable Storage Upto 32GB,1079,0.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+576,LAVA GEM POWER,1799,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 MB,7.11,2MP Rear Camera
+577,Micromax X413,932,4.0,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+578,"Tecno Pova 3 (Tech Silver, 128 GB)",13999,4.1,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,17.53,50MP + 2MP + 2MP | 8MP Front Camera
+579,"POCO M6 Pro 5G (Power Black, 128 GB)",12999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 2MP | 8MP Front Camera
+580,Kechaoda K6,1090,3.9,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+581,"REDMI Note 12 Pro+ 5G (Iceberg Blue, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+582,"OPPO Reno10 Pro 5G (Glossy Purple, 256 GB)",39999,4.3,12 GB RAM | 256 GB ROM,17.02,50MP + 32MP + 8MP | 32MP Front Camera
+583,"OPPO Reno10 Pro 5G (Silvery Grey, 256 GB)",39999,4.3,12 GB RAM | 256 GB ROM,17.02,50MP + 32MP + 8MP | 32MP Front Camera
+584,KARBONN K110i,944,3.6,0 MB ROM | Expandable Upto 8 GB,4.57,1000 mAh Battery
+585,"OPPO A58 (Glowing Black, 128 GB)",14999,0.0,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,50MP + 2MP | 8MP Front Camera
+586,"vivo Y56 5G (Orange Shimmer, 128 GB)",18999,4.2,8 GB RAM | 128 GB ROM,16.71,50MP + 2MP | 16MP Front Camera
+587,"itel Vision3 (Jewel Blue, 32 GB)",6059,4.2,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+588,MTR S1000,1100,3.6,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+589,Kechaoda K33,1150,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+590,Kechaoda A20,999,3.8,512 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+591,UiSmart Ui-06,1650,4.0,512 MB RAM | 256 MB ROM,4.5,0.01MP Rear Camera
+592,"OPPO A58 (Dazzling Green, 128 GB)",14999,0.0,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.07,50MP + 2MP | 8MP Front Camera
+593,Kechaoda A20,999,3.8,512 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+594,"MOTOROLA G32 (Satin Maroon, 128 GB)",11999,4.1,8 GB RAM | 128 GB ROM,16.51,50MP + 8MP + 2MP | 16MP Front Camera
+595,"itel S23 (Mystery White, 128 GB)",8489,4.1,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP Rear Camera | 8MP Front Camera
+596,itel it5029 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1340,3.8,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+597,"REDMI Note 12 Pro+ 5G (Iceberg Blue, 256 GB)",32999,4.2,12 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+598,Nokia 110 (2023),1999,4.1,4 MB RAM | 4 MB ROM,4.57,0.2MP Rear Camera
+599,itel it5029 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1340,3.8,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+600,KARBONN K9 PUNCH BLK RED,1430,4.1,52 MB RAM | 52 MB ROM | Expandable Upto 32 GB,6.1,0MP | 0.3MP Front Camera
+601,"REDMI A2 (Aqua Blue, 64 GB)",6670,4.1,2 GB RAM | 64 GB ROM,16.56,8MP Rear Camera
+602,"SAMSUNG Galaxy M13 (Aqua Green, 128 GB)",12990,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+603,GFive A1,699,3.5,32 MB RAM | 32 MB ROM,4.57,1.3MP Rear Camera
+604,GFive V8,699,3.7,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+605,"Tecno Spark Go 2023 (UYUNI BLUE, 64 GB)",7599,4.1,3 GB RAM | 64 GB ROM,16.66,13MP Rear Camera
+606,itel it5029 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1340,3.8,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+607,itel it5029 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1340,3.8,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+608,"MOTOROLA Edge 40 (Lunar Blue, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+609,"APPLE iPhone 13 (Blue, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+610,Kechaoda A20,999,3.8,512 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+611,Kechaoda A20,999,3.8,512 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+612,Micromax X412,999,3.9,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+613,Nokia 106 4G 2023,2645,3.7,4 MB RAM | 4 MB ROM,4.5,1450 mAh Battery
+614,"REDMI Note 11 (Space Black, 64 GB)",13488,4.2,6 GB RAM | 64 GB ROM,16.33,50MP Rear Camera
+615,"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",19999,4.4,8 GB RAM | 128 GB ROM,17.07,108MP Rear Camera
+616,itel IT5626,1789,4.0,8 MB RAM | 8 MB ROM | Expandable Upto 32 GB,7.11,0.3MP Rear Camera
+617,"Tecno Spark Go 2023 (UYUNI BLUE, 64 GB)",8877,4.1,4 GB RAM | 64 GB ROM,16.66,13MP Rear Camera
+618,"itel Vision3 (Jewel Blue, 32 GB)",6059,4.2,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+619,"itel Vision3 (Multi Green, 32 GB)",6059,4.2,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+620,Snexian ROCK 310,699,3.4,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+621,LAVA LF9000,1689,4.2,20 MB RAM | 20 MB ROM,7.11,2575 mAh Battery
+622,"MOTOROLA G32 (Satin Maroon, 128 GB)",11999,4.1,8 GB RAM | 128 GB ROM,16.51,50MP + 8MP + 2MP | 16MP Front Camera
+623,Kechaoda K33,1150,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+624,"POCO F5 5G (Carbon Black, 256 GB)",27999,4.3,8 GB RAM | 256 GB ROM,16.94,64MP (OIS) + 8MP + 2MP | 16MP Front Camera
+625,KARBONN K140 Pop,999,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0.3MP Rear Camera
+626,SAMSUNG Guru Music 2,2890,4.1,0.53 RAM | NA KB ROM | Expandable Upto 16 GB,5.08,0MP Front Camera
+627,"Tecno Spark Go 2023 (UYUNI BLUE, 32+3 GB)",6598,4.1,3 GB RAM | 32+3 GB ROM,16.66,13MP Rear Camera
+628,Micromax X412,999,3.9,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+629,"SAMSUNG GALAXY M13 (Midnight Blue, 128 GB)",12999,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+630,KARBONN KX 29,1497,3.8,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+631,"vivo Y100 5G (Pacific Blue, 128 GB)",23999,4.3,8 GB RAM | 128 GB ROM,16.21,64MP (OIS) + 2MP + 2MP | 16MP Front Camera
+632,"Infinix Zero 20 (Green Fantasy, 128 GB)",15499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 13MP + 2MP | 60 MP with OIS
+633,"Infinix Zero 20 (DEEP GRAY, 128 GB)",15499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 13MP + 2MP | 60 MP with OIS
+634,"REDMI Note 12 Pro 5G (Stardust Purple, 256 GB)",28999,4.7,12 GB RAM | 256 GB ROM,16.94,50MP (OIS) + 8MP + 2MP | 16MP Front Camera
+635,"REDMI A2 (Classic Black, 32 GB)",6390,4.1,2 GB RAM | 32 GB ROM,16.56,8MP Rear Camera
+636,"itel A23S (Sky Black, 32 GB)",4699,3.7,2 GB RAM | 32 GB ROM,12.7,2MP Rear Camera
+637,"POCO F5 5G (Snowstorm White, 256 GB)",30999,4.3,12 GB RAM | 256 GB ROM,16.94,64MP (OIS) + 8MP + 2MP | 16MP Front Camera
+638,"REDMI Note 12 Pro+ 5G (Arctic White, 256 GB)",32999,4.2,12 GB RAM | 256 GB ROM,16.94,200MP + 8MP + 2MP | 16MP Front Camera
+639,"OPPO A17K (Navy Blue, 64 GB)",9890,4.5,3 GB RAM | 64 GB ROM | Expandable Upto 2 TB,16.66,8MP Rear Camera | 5MP Front Camera
+640,"itel A60 (DawnBlue, 32 GB)",5978,4.1,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+641,"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",15999,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP + 8MP + 2MP | 8MP Front Camera
+642,KARBONN KU3+,999,0.0,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+643,MarQ by Flipkart M70 Shakti,1599,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+644,"Nothing Phone (2) (White, 512 GB)",54999,4.4,12 GB RAM | 512 GB ROM,17.02,50 MP(OIS) +50MP | 32MP Front Camera
+645,"REDMI 12 (Moonstone Silver, 128 GB)",11499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+646,"Infinix HOT 30 5G (Knight Black, 128 GB)",13499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.22,50 MP + AI Lens | 8MP Front Camera
+647,"Infinix Note 12 (Force Black, 64 GB)",10999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,17.02,50MP + 2MP Depth + AI Lens | 16MP Front Camera
+648,"REDMI 12 (Moonstone Silver, 128 GB)",11499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+649,"Infinix Note 12 (Force Black, 64 GB)",10999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,17.02,50MP + 2MP Depth + AI Lens | 16MP Front Camera
+650,"Infinix HOT 30 5G (Knight Black, 128 GB)",13499,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.22,50 MP + AI Lens | 8MP Front Camera
+651,Kechaoda A 27,999,4.0,32 MB RAM | 32 MB ROM,1.68,800 mAh Battery
+652,"Tecno Spark 10 (Meta Blue, 128 GB)",11095,4.5,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP Rear Camera | 8MP Front Camera
+653,"Tecno Spark 10 (Meta Black, 128 GB)",11270,4.5,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,50MP Rear Camera | 8MP Front Camera
+654,"APPLE iPhone 14 Plus (Blue, 128 GB)",76999,4.6,128 GB ROM,17.02,12MP + 12MP | 12MP Front Camera
+655,itel It2171 Keypad Mobile|1000 mAh battery|Expandable Storage upto 32GB,1125,4.1,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+656,Cellecor E8 Plus,1299,3.6,32 MB RAM | 32 MB ROM,6.1,0.8MP Rear Camera
+657,"realme C33 2023 (Sandy Gold, 128 GB)",10499,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 0.3MP | 5MP Front Camera
+658,Lvix L1 310,620,3.3,16 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+659,Kechaoda K10,1180,3.9,32 MB RAM | 32 MB ROM,1.68,300 mAh Battery
+660,GFive A1,699,3.5,32 MB RAM | 32 MB ROM,4.57,1.3MP Rear Camera
+661,UiSmart Ui-06,1625,4.0,512 MB RAM | 256 MB ROM,4.5,0.01MP Rear Camera
+662,KARBONN KX3S,1070,3.7,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0MP | 0.03MP Front Camera
+663,Kechaoda PRO,1190,4.2,32 MB RAM | 32 MB ROM,4.57,1.3MP Rear Camera
+664,Good One 2192,1099,3.8,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,2MP Rear Camera
+665,"POCO F5 5G (Carbon Black, 256 GB)",30999,4.3,12 GB RAM | 256 GB ROM,16.94,64MP (OIS) + 8MP + 2MP | 16MP Front Camera
+666,LAVA Flip,1990,4.1,56 MB RAM | 56 MB ROM,6.1,0.08MP Rear Camera
+667,"LAVA YUVA 2 PRO (LAVENDER, 64 GB)",8799,4.1,4 GB RAM | 64 GB ROM,16.51,13MP Rear Camera
+668,"REDMI 12 (Pastel Blue, 128 GB)",11499,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 8MP + 2MP | 8MP Front Camera
+669,"MOTOROLA Edge 40 (Lunar Blue, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+670,Nokia 110 4G,2980,3.9,128 MB RAM | 48 MB ROM,4.57,0.8MP Rear Camera
+671,Kechaoda K33,1129,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+672,Cellecor C9+,949,4.1,32 MB RAM | 32 MB ROM,4.57,1000 mAh Battery
+673,I Kall K26,749,3.5,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+674,Nokia 110 DS 4G TA-1556,2999,4.3,4 MB RAM | 4 MB ROM,4.57,1.3MP Rear Camera
+675,"REDMI Note 11 (Space Black, 64 GB)",13488,4.2,6 GB RAM | 64 GB ROM,16.33,50MP Rear Camera
+676,MarQ by Flipkart M70 Shakti,1599,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+677,Jmax Super 2,739,4.3,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+678,"SAMSUNG Galaxy M34 5G without charger (Midnight Blue, 128 GB)",21949,4.3,6 GB RAM | 128 GB ROM,16.51,50MP Rear Camera
+679,LAVA A1 Super 2021,1259,4.0,32 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+680,"Tecno Spark 9 (Sky Mirror, 128 GB)",10995,4.0,6 GB RAM | 128 GB ROM | Expandable Upto 128 GB,16.76,13MP Rear Camera | 8MP Front Camera
+681,"realme C33 2023 (Aqua Blue, 128 GB)",10499,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 0.3MP | 5MP Front Camera
+682,"itel P40 (Force Black, 32 GB)",6799,4.0,3 GB RAM | 32 GB ROM,16.76,13MP Rear Camera
+683,"vivo Y100 5G (Twilight Gold, 128 GB)",23999,4.3,8 GB RAM | 128 GB ROM,16.21,64MP (OIS) + 2MP + 2MP | 16MP Front Camera
+684,"vivo Y100 5G (Metal Black, 128 GB)",23999,4.3,8 GB RAM | 128 GB ROM,16.21,64MP (OIS) + 2MP + 2MP | 16MP Front Camera
+685,"APPLE iPhone 14 Plus (Purple, 128 GB)",76999,4.6,128 GB ROM,17.02,12MP + 12MP | 12MP Front Camera
+686,Cellecor E8 Plus,1322,3.6,32 MB RAM | 32 MB ROM,6.1,0.8MP Rear Camera
+687,"realme C25s (Watery Grey, 128 GB)",9999,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 256 GB,16.51,13MP + 2MP + 2MP | 8MP Front Camera
+688,"I Kall King Talking, Contact icon and Auto Call Recording",844,3.6,32 MB RAM | 64 MB ROM,6.1,0.3MP Rear Camera
+689,Nokia 150 DS 2020,2799,4.1,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+690,"realme C33 2023 (Night Sea, 128 GB)",10499,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 0.3MP | 5MP Front Camera
+691,"REDMI Note 11 (Space Black, 64 GB)",12980,4.2,4 GB RAM | 64 GB ROM,16.33,50MP Rear Camera | 13MP Front Camera
+692,Snexian ROCK 310,680,3.4,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+693,GFive V8,699,3.7,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+694,KARBONN K310i,959,3.6,10 MB RAM | 10 MB ROM,4.57,800 mAh Battery
+695,KARBONN K310i,968,3.6,10 MB RAM | 10 MB ROM,4.57,800 mAh Battery
+696,itel U30 keypad Mobile|1200 mAh battery|Expandable Storage Upto 32GB,1079,0.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+697,"itel U30 keypad Mobile|1200 mAh battery|Expandable Storage Upto 32GB (Blue, 32 MB)",1079,0.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+698,Cellecor C9+,949,4.1,32 MB RAM | 32 MB ROM,4.57,1000 mAh Battery
+699,"POCO M4 5G (Yellow, 128 GB)",14999,4.2,6 GB RAM | 128 GB ROM | Expandable Upto 512 GB,16.71,50MP + 2MP | 8MP Front Camera
+700,"realme Narzo 50i (Carbon Black, 64 GB)",8885,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,16.51,8MP Rear Camera | 5MP Front Camera
+701,"realme Narzo 50i (Mint Green, 32 GB)",7499,4.5,2 GB RAM | 32 GB ROM | Expandable Upto 256 GB,16.51,8MP Rear Camera | 5MP Front Camera
+702,Kechaoda K28,1255,4.1,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera
+703,"realme Narzo 50i (Carbon Black, 32 GB)",7187,4.5,2 GB RAM | 32 GB ROM | Expandable Upto 256 GB,16.51,8MP Rear Camera | 5MP Front Camera
+704,"Mi 10T (Cosmic Black, 128 GB)",21990,4.2,6 GB RAM | 128 GB ROM,16.94,64MP + 13MP + 5MP | 20MP Front Camera
+705,"realme Narzo 50A (Oxygen Blue, 64 GB)",11499,4.4,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,16.51,50MP + 2MP + 2MP | 8MP Front Camera
+706,"Tecno Pop 7 pro (?Uyuni Blue, 64 GB)",7999,4.2,3 GB RAM | 64 GB ROM,16.66,12MP Rear Camera
+707,"POCO M6 Pro 5G (Forest Green, 128 GB)",12999,4.3,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.25,50MP + 2MP | 8MP Front Camera
+708,"POCO C31 (Shadow Gray, 64 GB)",9499,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.59,13MP + 2MP + 2MP | 5MP Front Camera
+709,"POCO F5 5G (Electric Blue, 256 GB)",30999,4.3,12 GB RAM | 256 GB ROM,16.94,64MP (OIS) + 8MP + 2MP | 16MP Front Camera
+710,"IQOO Z6 Lite 5G (Without Charger) (Stellar Green, 128 GB)",15472,4.2,6 GB RAM | 128 GB ROM,16.97,50MP Rear Camera
+711,Motorola a70,2199,4.0,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,6.1,1750 mAh Battery
+712,I Kall K3310,744,3.6,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+713,I Kall K3310,744,3.6,32 MB RAM | 31 MB ROM,4.5,0.3MP Rear Camera
+714,Nokia 105 DS (2023) Charcoal,1515,4.2,4 MB RAM | 4 MB ROM,4.57,1000 mAh Battery
+715,"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",18900,4.2,8 GB RAM | 128 GB ROM,16.76,50MP Rear Camera | 8MP Front Camera
+716,Nokia 110 Dual Sim 2022,2099,4.1,4 MB RAM | 4 MB ROM,4.5,1MP Rear Camera
+717,HOTLINE CLASSIC,649,0.0,32 MB RAM | 32 MB ROM,4.5,1.3MP Rear Camera
+718,"SAMSUNG Galaxy S20 FE (Cloud Navy, 128 GB)",26799,4.0,8 GB RAM | 128 GB ROM,16.51,12MP Rear Camera
+719,itel Muzik 110| 1900 mAh battery| Expandable Storage upto 32GB,1270,4.1,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+720,"realme C30s (Stripe Blue, 32 GB)",6999,4.4,2 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+721,"APPLE iPhone 14 Plus (Purple, 128 GB)",76999,4.6,128 GB ROM,17.02,12MP + 12MP | 12MP Front Camera
+722,XTOUCH F20 feature phone ( Not support Jio SIM ),1249,3.2,32 MB RAM | 56 MB ROM,6.1,1.3MP Rear Camera
+723,"MOTOROLA Edge 30 Fusion (Cosmic grey, 128 GB)",34999,4.3,8 GB RAM | 128 GB ROM,16.64,50MP + 13MP + 2MP | 32MP Front Camera
+724,"APPLE iPhone 11 (White, 128 GB)",44999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+725,"POCO F5 5G (Electric Blue, 256 GB)",30999,4.3,12 GB RAM | 256 GB ROM,16.94,64MP (OIS) + 8MP + 2MP | 16MP Front Camera
+726,Kechaoda K55 Pro,1160,3.8,32 MB RAM | 64 MB ROM,4.57,1.3MP Rear Camera
+727,"MOTOROLA g31 (Meteorite Grey, 64 GB)",11999,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.26,50MP + 8MP + 2MP | 13MP Front Camera
+728,Kechaoda A8,1499,3.8,32 MB RAM | 64 MB ROM | Expandable Upto 32 GB,8.89,0.3MP Rear Camera
+729,"SAMSUNG Galaxy M33 5G (Mystique Green, 128 GB)",15900,4.2,6 GB RAM | 128 GB ROM,16.74,50MP Rear Camera | 8MP Front Camera
+730,"SAMSUNG Galaxy S20 FE (Cloud Navy, 128 GB)",26799,4.0,8 GB RAM | 128 GB ROM,16.51,12MP Rear Camera
+731,"Infinix Smart 6 (Light Sea Green, 64 GB)",6999,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.76,8 MP + Depth Lens | 5MP Front Camera
+732,"Infinix Smart 6 (Polar Black, 64 GB)",6999,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.76,8 MP + Depth Lens | 5MP Front Camera
+733,Snexian BOLD 777,890,3.6,32 MB RAM | 32 MB ROM,1.68,850 mAh Battery
+734,Micromax X809,1340,3.7,32 MB RAM | 32 MB ROM,7.11,1MP Rear Camera
+735,I Kall K26,749,3.5,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+736,"itel P40 (Dreamy Blue, 64 GB)",7140,4.1,4 GB RAM | 64 GB ROM,16.76,13MP Rear Camera
+737,"MOTOROLA g22 (Cosmic Black, 64 GB)",10999,3.8,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,50MP + 8MP + 2MP + 2MP | 16MP Front Camera
+738,"Infinix Note 12 Pro 5G (Force Black, 128 GB)",18999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 2MP (Depth) + 2MP (Macro) | 16MP Front Camera
+739,"Nothing Phone (2) (White, 512 GB)",54999,4.4,12 GB RAM | 512 GB ROM,17.02,50 MP(OIS) +50MP | 32MP Front Camera
+740,"Infinix Note 12 Pro 5G (Snowfall, 128 GB)",18999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 2MP (Depth) + 2MP (Macro) | 16MP Front Camera
+741,MarQ by Flipkart M70 Shakti,1599,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+742,MarQ by Flipkart M70 Shakti,1599,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+743,"realme C33 2023 (Sandy Gold, 128 GB)",10499,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 0.3MP | 5MP Front Camera
+744,"realme C33 2023 (Night Sea, 128 GB)",10499,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,50MP + 0.3MP | 5MP Front Camera
+745,LAVA Spark i8,1699,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,7.11,1.3MP Rear Camera
+746,"itel A60 (DawnBlue, 32 GB)",5978,4.1,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+747,KARBONN K310i,999,3.6,10 MB RAM | 10 MB ROM,4.57,800 mAh Battery
+748,Cellecor C9+,999,4.1,32 MB RAM | 32 MB ROM,4.57,1000 mAh Battery
+749,LAVA A1,1169,4.2,24 MB RAM | 24 MB ROM | Expandable Upto 32 GB,4.5,0.3MP Rear Camera
+750,KARBONN KU3+,999,0.0,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+751,Cellecor X50+,1429,3.6,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+752,KARBONN KX3S,1070,3.7,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0MP | 0.03MP Front Camera
+753,"SAMSUNG Galaxy M34 5G without charger (Midnight Blue, 128 GB)",21949,4.3,6 GB RAM | 128 GB ROM,16.51,50MP Rear Camera
+754,"POCO X4 Pro 5G (Laser Black, 128 GB)",17999,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,64MP + 8MP + 2MP | 16MP Front Camera
+755,"OnePlus Nord 2T 5G (Gray Shadow, 128 GB)",28999,4.4,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera | 32MP Front Camera
+756,Jmax Super 2,759,4.3,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+757,Jmax Super 2,739,4.3,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+758,Kechaoda PRO,1190,4.2,32 MB RAM | 32 MB ROM,4.57,1.3MP Rear Camera
+759,"itel Vision3 (Deep Ocean Black, 32 GB)",6099,4.2,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+760,"Mi 10T (Cosmic Black, 128 GB)",21990,4.2,6 GB RAM | 128 GB ROM,16.94,64MP + 13MP + 5MP | 20MP Front Camera
+761,Cellecor E8 Plus,1302,3.6,32 MB RAM | 32 MB ROM,6.1,0.8MP Rear Camera
+762,"MOTOROLA Edge 40 (Viva Magenta, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+763,"REDMI 10A (Sea Blue, 64 GB)",8650,4.2,4 GB RAM | 64 GB ROM,16.59,13MP Rear Camera
+764,"REDMI 10A (Slate Grey, 32 GB)",7489,4.1,3 GB RAM | 32 GB ROM,16.59,13MP Rear Camera
+765,"Google Pixel 7 (Obsidian, 128 GB)",49999,4.3,8 GB RAM | 128 GB ROM,16.0,50MP + 12MP | 10.8MP Front Camera
+766,"Google Pixel 7 (Lemongrass, 128 GB)",49999,4.3,8 GB RAM | 128 GB ROM,16.0,50MP + 12MP | 10.8MP Front Camera
+767,UiSmart Ui-06,1650,4.0,512 MB RAM | 256 MB ROM,4.5,0.01MP Rear Camera
+768,"MOTOROLA Edge 40 (Viva Magenta, 256 GB)",29999,4.2,8 GB RAM | 256 GB ROM,16.51,50MP + 13MP | 32MP Front Camera
+769,"APPLE iPhone 14 ((PRODUCT)RED, 128 GB)",66999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+770,"LAVA Z2 (Aqua Blue, 32 GB)",5990,4.2,2 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.55,13MP + 2MP | 8MP Front Camera
+771,Jmax J32,699,3.7,32 MB RAM | 32 MB ROM,4.57,2MP Rear Camera
+772,Kechaoda K60,1797,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera | 0.3MP Front Camera
+773,Cellecor E6+,1186,3.6,32 MB RAM | 32 MB ROM,4.57,0.8MP Rear Camera
+774,Kechaoda K33,1145,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+775,Cellecor E8 Plus,1302,3.6,32 MB RAM | 32 MB ROM,6.1,0.8MP Rear Camera
+776,Geotel K9 Flip,1599,3.9,32 MB RAM | 32 MB ROM,4.32,0.3MP Rear Camera
+777,SAREGAMA Carvaan Mobile Hindi Don M12 with 1000 Pre-Loaded Songs,1750,4.0,32 MB RAM | 1.30 GB ROM,4.57,800 mAh Battery
+778,GFive Pro,799,3.5,32 MB RAM | 32 ROM,4.57,0.3MP Rear Camera
+779,Kechaoda K33,1110,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+780,"realme C30s (Stripe Black, 32 GB)",6999,4.4,2 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+781,"SAMSUNG Galaxy M14 5G (ICY Silver, 128 GB)",14549,4.2,4 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+782,"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",14335,4.2,4 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+783,Jmax Super 2,759,4.3,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+784,"POCO X4 Pro 5G (Laser Black, 128 GB)",17999,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.94,64MP + 8MP + 2MP | 16MP Front Camera
+785,Nokia TA-1304/105 SS,1550,4.2,4 MB RAM | 4 MB ROM,4.5,800 mAh Battery
+786,KARBONN KU3+,1099,0.0,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+787,MarQ by Flipkart M70 Shakti,1599,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+788,I Kall K130,737,3.4,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+789,LAVA A7 Star,1449,4.0,24 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera | 0MP Front Camera
+790,"Tecno Pop 7 Pro (uyuni blue, 64 GB)",7424,4.2,3 GB RAM | 64 GB ROM,16.66,50MP Rear Camera
+791,"Tecno Pop 7 Pro (Endless Black, 3 GB)",7238,4.3,64 GB RAM | 3 GB ROM,16.66,50MP Rear Camera
+792,I Kall K130,737,3.4,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+793,"realme C30s (Night Black, 64 GB)",8939,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+794,Micromax X809,1340,3.7,32 MB RAM | 32 MB ROM,7.11,1MP Rear Camera
+795,"realme C30s (Stripe - Black, 32 GB)",7480,4.4,2 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+796,GFive Rose,999,3.6,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera
+797,"SAMSUNG Galaxy S20 FE 5G (Cloud Mint, 128 GB)",26795,4.2,8 GB RAM | 128 GB ROM,16.51,12MP Rear Camera | 32MP Front Camera
+798,Snexian ROCK R7,985,3.7,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera | 0.3MP Front Camera
+799,Snexian ROCK R7,999,3.7,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera | 0.3MP Front Camera
+800,Kechaoda K33,1110,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+801,UiSmart Ui-06,1650,4.0,512 MB RAM | 256 MB ROM,4.5,0.01MP Rear Camera
+802,"APPLE iPhone 13 ((PRODUCT)RED, 128 GB)",59499,4.7,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+803,Micromax X415,1068,3.8,32 MB RAM | 32 MB ROM,4.5,0.03MP Rear Camera
+804,Nokia 105 DS,1515,4.2,4 MB RAM | 4 MB ROM,4.57,1000 mAh Battery
+805,Good One G5605N,999,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,2MP Rear Camera
+806,"APPLE iPhone 11 (Black, 128 GB)",44999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+807,Nokia 110,2195,4.1,4 MB RAM | 4 MB ROM,4.5,0.08MP Rear Camera
+808,"vivo Y16 (Steller Black, 64 GB)",11999,4.3,4 GB RAM | 64 GB ROM,16.54,13MP Rear Camera
+809,"Infinix Zero 5G 2023 TURBO (Submariner Black, 256 GB)",16999,4.0,8 GB RAM | 256 GB ROM | Expandable Upto 256 GB,17.22,50MP + 2MP + 2MP | 16MP Front Camera
+810,Cellecor E8 Plus,1303,3.6,32 MB RAM | 32 MB ROM,6.1,0.8MP Rear Camera
+811,Nokia 3310 DS 2020,4389,3.9,16 MB ROM | Expandable Upto 32 GB,6.1,2MP Rear Camera
+812,SAREGAMA Carvaan Mobile M21 with 1500 pre-loaded songs,2490,4.0,32 MB RAM | 8 GB ROM,6.1,0.3MP Rear Camera
+813,"APPLE iPhone 11 (White, 128 GB)",44999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+814,"Nothing Phone (2) (Dark Grey, 128 GB)",44999,4.4,8 GB RAM | 128 GB ROM,17.02,50 MP(OIS) +50MP | 32MP Front Camera
+815,"Nothing Phone (2) (Dark Grey, 256 GB)",49999,4.4,12 GB RAM | 256 GB ROM,17.02,50 MP(OIS) +50MP | 32MP Front Camera
+816,"Google Pixel 7 (Lemongrass, 128 GB)",49999,4.3,8 GB RAM | 128 GB ROM,16.0,50MP + 12MP | 10.8MP Front Camera
+817,"Google Pixel 7 (Obsidian, 128 GB)",49999,4.3,8 GB RAM | 128 GB ROM,16.0,50MP + 12MP | 10.8MP Front Camera
+818,"Nothing Phone (2) (White, 256 GB)",49999,4.4,12 GB RAM | 256 GB ROM,17.02,50 MP(OIS) +50MP | 32MP Front Camera
+819,"itel P40 (Luxurious Gold, 32 GB)",6799,4.0,3 GB RAM | 32 GB ROM,16.76,13MP Rear Camera
+820,Kechaoda K28,1399,4.1,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera
+821,Nokia 105 DS 2020,1595,4.2,4 MB RAM | 4 MB ROM,4.5,800 mAh3 Li-ion Battery
+822,"itel P40 (Luxurious Gold, 64 GB)",7158,4.1,4 GB RAM | 64 GB ROM,16.76,13MP Rear Camera
+824,GFive C2 Black,990,3.4,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+825,LAVA Spark i8,1699,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,7.11,1.3MP Rear Camera
+826,"Infinix Smart 6 (Heart Of Ocean, 64 GB)",6999,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.76,8 MP + Depth Lens | 5MP Front Camera
+827,"vivo Y75 (Dancing waves, 128 GB)",19990,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.36,50MP + 8MP + 2MP | 44MP Front Camera
+829,SAREGAMA Carvaan Mobile Malayalam M21,2490,3.4,32 MB RAM | 8 GB ROM,6.1,0.3MP Rear Camera
+830,itel it2163s,1190,4.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+831,"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)",16450,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+832,HOTLINE CLASSIC,649,0.0,32 MB RAM | 32 MB ROM,4.5,1.3MP Rear Camera
+833,HOTLINE CLASSIC,649,0.0,32 MB RAM | 32 MB ROM,4.5,1.3MP Rear Camera
+834,"vivo Y22 (Starlit Blue, 128 GB)",14499,4.3,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.64,50MP + 2MP | 8MP Front Camera
+835,itel Muzik 110| 1900 mAh battery| Expandable Storage upto 32GB,1279,4.1,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera
+836,"IQOO Z6 Lite 5G (Without Charger) (Mystic Night, 128 GB)",15489,4.2,6 GB RAM | 128 GB ROM,16.97,50MP Rear Camera
+837,"Nokia C32 (Charcoal, 128 GB)",9999,3.8,4 GB RAM | 128 GB ROM,16.56,50MP Rear Camera
+838,"LAVA YUVA 2 PRO (White, 64 GB)",8899,4.1,4 GB RAM | 64 GB ROM,16.51,13MP Rear Camera
+840,Kechaoda K33,1110,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+841,Kechaoda K33,1110,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+842,"REDMI 10 (Sunrise Orange, 64 GB)",9999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.02,50MP + 2MP | 5MP Front Camera
+843,"MOTOROLA e13 (Cosmic Black, 128 GB)",8999,0.0,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.51,13MP Rear Camera | 5MP Front Camera
+844,"itel P40 (Luxurious Gold, 32 GB)",6799,4.0,3 GB RAM | 32 GB ROM,16.76,13MP Rear Camera
+845,"Vox King Talking, Contact icon and Auto Call Recording",899,3.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+846,"vivo Y22 (Metaverse Green, 64 GB)",14499,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.64,50MP + 2MP | 8MP Front Camera
+847,Cellecor X50+,1519,3.6,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+848,"MOTOROLA E7 Power (Coral Red, 32 GB)",6999,4.0,2 GB RAM | 32 GB ROM | Expandable Upto 1 TB,16.54,13MP + 2MP | 5MP Front Camera
+849,LAVA Spark i8,1704,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,7.11,1.3MP Rear Camera
+850,GFive Pro,799,3.5,32 MB RAM | 32 ROM,4.57,0.3MP Rear Camera
+851,Nokia TA-1304/105 SS,1550,4.2,4 MB RAM | 4 MB ROM,4.5,800 mAh Battery
+852,Cellecor E5,1253,3.7,32 MB RAM | 32 MB ROM,4.57,1MP Rear Camera
+853,Cellecor E5,1319,3.7,32 MB RAM | 32 MB ROM,4.57,0.8MP Rear Camera
+854,"APPLE iPhone 14 ((PRODUCT)RED, 128 GB)",66999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+855,"realme Narzo 50A (Oxygen Blue, 128 GB)",12999,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 256 GB,16.51,50MP + 2MP + 2MP | 8MP Front Camera
+856,KARBONN KX3S,1070,3.7,32 MB RAM | 32 MB ROM | Expandable Upto 16 GB,4.57,0MP | 0.03MP Front Camera
+857,"Redmi 9A Sport (Carbon Black, 32 GB)",7181,4.1,2 GB RAM | 32 GB ROM,16.59,13MP Rear Camera
+858,"vivo Y02 (Orchid Blue, 32 GB)",8499,4.2,3 GB RAM | 32 GB ROM,16.54,8MP Rear Camera | 5MP Front Camera
+859,"IQOO Neo 7 5G (Frost Blue, 128 GB)",29990,4.4,8 GB RAM | 128 GB ROM,17.22,64MP Rear Camera
+860,"SAMSUNG Galaxy A34 5G (Awesome Graphite, 256 GB)",32999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.76,48MP + 8MP + 5MP | 13MP Front Camera
+861,"itel P40 (Luxurious Gold, 64 GB)",7158,4.1,4 GB RAM | 64 GB ROM,16.76,13MP Rear Camera
+862,"IQOO Neo 7 5G (Interstellar Black, 128 GB)",29862,4.4,8 GB RAM | 128 GB ROM,17.22,64MP Rear Camera
+863,Kechaoda K28,1255,4.1,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera
+864,"Infinix HOT 30 5G (Aurora Blue, 128 GB)",12499,4.2,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,17.22,50 MP + AI Lens | 8MP Front Camera
+865,Jmax Super 1,759,0.0,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+866,"APPLE iPhone 11 (Black, 128 GB)",44999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+867,MU M5000,1199,3.9,32 MB RAM | 32 MB ROM,7.11,1.3MP Rear Camera
+868,Cellecor X50+,1512,3.6,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+869,"Infinix Note 12 Pro (Volcanic Grey, 256 GB)",16999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 2 TB,17.02,108MP + 2MP Depth Lens + AI lens | 16MP Front Camera
+870,"LAVA YUVA 2 PRO (White, 64 GB)",8899,4.1,4 GB RAM | 64 GB ROM,16.51,13MP Rear Camera
+871,MU M5000,1199,3.9,32 MB RAM | 32 MB ROM,7.11,1.3MP Rear Camera
+872,"itel A60 (SapphireBlack, 32 GB)",5985,4.1,2 GB RAM | 32 GB ROM,16.76,8MP Rear Camera
+873,itel Power 200|2500 mAh battery|Expandable Storage upto 32GB,1399,4.1,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+874,"POCO C31 (Royal Blue, 64 GB)",9499,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.59,13MP + 2MP + 2MP | 5MP Front Camera
+875,Snexian BOLD 2K,980,3.5,32 MB RAM | 32 MB ROM,3.66,1.3MP Rear Camera
+876,Snexian BOLD 2K,999,3.5,32 MB RAM | 32 MB ROM,3.66,1.3MP Rear Camera
+877,Kechaoda K28,1250,4.1,32 MB RAM | 64 MB ROM | Expandable Upto 16 GB,6.1,0.3MP Rear Camera
+878,Cellecor D10,1499,0.0,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+879,Cellecor D10,1499,0.0,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+880,"OPPO F21s Pro 5G (Dawnlight Gold, 128 GB)",24490,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.33,64MP + 64MP + 2MP + 2MP | 32MP + 16MP Dual Front Camera
+881,Kechaoda K113,1420,4.0,32 MB RAM | 64 MB ROM | Expandable Upto 32 GB,7.11,0.3MP Rear Camera
+882,"OPPO F23 5G (Bold Gold, 256 GB)",23990,4.3,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP + 2MP | 32MP Front Camera
+883,"itel P40 (Dreamy Blue, 32 GB)",6799,4.0,3 GB RAM | 32 GB ROM,16.76,13MP Rear Camera
+884,"itel P40 (Force Black, 64 GB)",7169,4.1,4 GB RAM | 64 GB ROM,16.76,13MP Rear Camera
+885,Good One G5605N,999,3.9,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,2MP Rear Camera
+886,MU M230 Pro,1499,4.2,32 MB RAM | 32 MB ROM,7.11,0.3MP Rear Camera
+887,"POCO C31 (Royal Blue, 32 GB)",8499,4.3,3 GB RAM | 32 GB ROM | Expandable Upto 512 GB,16.59,13MP + 2MP + 2MP | 5MP Front Camera
+888,"IQOO Z7s 5G (Pacific Night, 128 GB)",20427,4.3,8 GB RAM | 128 GB ROM,16.21,64MP Rear Camera
+889,"Infinix Note 12 Pro (Volcanic Grey, 256 GB)",16999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 2 TB,17.02,108MP + 2MP Depth Lens + AI lens | 16MP Front Camera
+890,Snexian BOLD 1K,999,3.7,32 MB RAM | 32 MB ROM,3.66,1.3MP Rear Camera
+891,Snexian BOLD 1K,960,3.7,32 MB RAM | 32 MB ROM,3.66,1.3MP Rear Camera
+892,itel Power 200|2500 mAh battery|Expandable Storage upto 32GB,1339,4.1,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+893,"OnePlus 10R 5G (Prime Blue, 128 GB)",29999,4.3,8 GB RAM | 128 GB ROM,17.02,5000 mAh Battery
+894,itel Magic3 Smart Touch Keypad,1808,4.0,8 MB RAM | 8 MB ROM,7.11,1.3MP Rear Camera
+895,Geotel K9 Flip,1599,3.9,32 MB RAM | 32 MB ROM,4.32,0.8MP Rear Camera
+896,Nokia 215 4G DS 2020,3499,3.8,64 MB RAM | 128 MB ROM | Expandable Upto 32 GB,6.1,1150 mAh Lithium-ion Battery
+897,"REDMI 10A (Slate Grey, 32 GB)",8989,4.1,3 GB RAM | 32 GB ROM,16.59,13MP Rear Camera
+898,itel IT2163,1149,4.1,4 MB RAM | 4 MB ROM | Expandable Upto 32 GB,4.57,1000 mAh Lithium-ion Battery
+899,"OPPO F23 5G (Bold Gold, 256 GB)",23990,4.3,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,17.07,64MP + 2MP + 2MP | 32MP Front Camera
+900,I Kall K14,704,3.4,32 MB RAM | 32 MB ROM | Expandable Upto 8 GB,4.57,1000 mAh Battery
+901,Energizer M1,749,3.6,32 MB RAM | 32 MB ROM,4.5,0.08MP Rear Camera
+902,Snexian ROCK R7,995,3.7,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,0.3MP Rear Camera | 0.3MP Front Camera
+903,"vivo T1 44W (Starry Sky, 128 GB)",14499,4.5,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.36,50MP + 2MP + 2MP | 16MP Front Camera
+904,"Micromax IN 2B (Black, 64 GB)",7999,3.9,6 GB RAM | 64 GB ROM | Expandable Upto 256 GB,16.56,13MP + 2MP | 5MP Front Camera
+905,"SAMSUNG Galaxy A54 5G (Awesome Graphite, 256 GB)",40999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.26,50MP + 12MP + 5MP | 32MP Front Camera
+906,Micromax J2,999,3.8,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+907,Micromax J2,970,3.8,32 MB RAM | 32 MB ROM,4.5,800 mAh Battery
+908,"realme C25s (Watery Blue, 128 GB)",11599,4.4,4 GB RAM | 128 GB ROM | Expandable Upto 256 GB,16.51,13MP + 2MP + 2MP | 8MP Front Camera
+909,itel MagicX Play 4G| 1900 mAh battery| Expandable Storage upto 64GB,2145,3.8,48 MB RAM | 128 MB ROM,4.57,0.3MP Rear Camera
+910,"Vox King Talking, Contact icon and Auto Call Recording",899,3.1,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+911,GREENBERRI G370,1049,4.0,32 MB RAM | 32 MB ROM,3.66,2MP Rear Camera
+912,Snexian ROCK 310,680,3.4,32 MB RAM | 32 MB ROM,4.5,0.3MP Rear Camera
+913,"Nokia C32 (Mint, 64 GB)",9590,3.8,4 GB RAM | 64 GB ROM,16.56,50MP Rear Camera
+914,Nokia 105 TA 1304 SS Black,1550,4.0,4 MB RAM | 32 MB ROM,4.5,0MP
+915,"Nokia C32 (MINT, 64 GB)",9499,3.8,4 GB RAM | 64 GB ROM,16.56,50MP + 2MP | 8MP Front Camera
+916,"APPLE iPhone 14 (Purple, 256 GB)",77999,4.6,256 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+917,Snexian BOLD 12K,1199,2.3,32 MB RAM | 32 MB ROM,7.11,1.3MP Rear Camera
+918,LAVA Spark i8,1704,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,7.11,1.3MP Rear Camera
+919,Cellecor D10,1499,0.0,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+920,Cellecor D10,1499,0.0,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+921,"SAMSUNG Galaxy M34 5G without charger (Midnight Blue, 128 GB)",19470,4.3,6 GB RAM | 128 GB ROM,16.51,50MP Rear Camera
+922,"REDMI 10 (Sunrise Orange, 64 GB)",9999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,17.02,50MP + 2MP | 5MP Front Camera
+923,Kechaoda K101,1399,3.7,32 MB RAM | 64 MB ROM | Expandable Upto 32 GB,7.11,0.3MP Rear Camera
+924,Kechaoda K33,1119,4.0,32 MB RAM | 32 MB ROM,3.56,0.3MP Rear Camera
+925,"APPLE iPhone 11 (White, 64 GB)",41999,4.6,64 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+926,I Kall K22 Plus,870,3.5,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+927,"Infinix HOT 12 Play (Racing Black, 64 GB)",8999,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 256 GB,17.32,13MP + Depth Lens | 8MP Front Camera
+928,LAVA A1 Josh,1099,3.9,24 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,800 mAh Battery
+929,"itel Vision2S (Gradation Purple, 32 GB)",6298,4.0,2 GB RAM | 32 GB ROM | Expandable Upto 128 GB,16.56,8MP + VGA Dual AI Camera | 5MP Front Camera
+930,"SAMSUNG Galaxy A34 5G (Awesome Violet, 128 GB)",30999,4.2,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.76,48MP + 8MP + 5MP | 13MP Front Camera
+931,"vivo T1 44W (Midnight Galaxy, 128 GB)",17999,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.36,50MP + 2MP + 2MP | 16MP Front Camera
+932,"vivo T1 44W (Starry Sky, 128 GB)",15999,4.4,6 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.36,50MP + 2MP + 2MP | 16MP Front Camera
+933,"realme C30s (Stripe Black, 64 GB)",8499,4.2,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.51,8MP Rear Camera | 5MP Front Camera
+934,"APPLE iPhone 14 (Blue, 256 GB)",77999,4.6,256 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+935,KARBONN K310i,999,3.6,10 MB RAM | 10 MB ROM,4.57,800 mAh Battery
+936,Snexian GURU 2163,670,3.3,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,4.57,1.3MP Rear Camera | 0.3MP Front Camera
+937,"Infinix Hot 12 Pro (Racing Black, 128 GB)",12999,4.0,8 GB RAM | 128 GB ROM | Expandable Upto 256 GB,16.76,50 MP + Depth Lens | 8MP Front Camera
+938,"Infinix Hot 12 Pro (Electric Blue, 128 GB)",12999,4.0,8 GB RAM | 128 GB ROM | Expandable Upto 256 GB,16.76,50 MP + Depth Lens | 8MP Front Camera
+939,"vivo X80 pro (Cosmic Black, 256 GB)",57999,4.4,12 GB RAM | 256 GB ROM,17.22,50MP Rear Camera
+940,"Infinix Zero Ultra (Genesis Noir, 256 GB)",29999,4.1,8 GB RAM | 256 GB ROM,17.27,200MP + 13MP + 2MP | 32MP Front Camera
+941,Jmax J32,699,3.7,32 MB RAM | 32 MB ROM,4.57,2MP Rear Camera
+942,Jmax J32,699,3.7,32 MB RAM | 32 MB ROM,4.57,2MP Rear Camera
+943,"APPLE iPhone 12 (White, 128 GB)",56999,4.6,128 GB ROM,15.49,12MP + 12MP | 12MP Front Camera
+944,Cellecor X50+,1429,3.6,32 MB RAM | 32 MB ROM,7.11,0.8MP Rear Camera
+945,"vivo Y75 (Moonlight Shadow, 128 GB)",19990,4.3,8 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.36,50MP + 8MP + 2MP | 44MP Front Camera
+946,Kechaoda K1,1299,4.0,32 MB RAM | 32 MB ROM,7.11,1.3MP Rear Camera
+947,"SAMSUNG Galaxy F54 5G (Stardust Silver, 256 GB)",29999,4.1,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,17.02,108MP + 8MP + 2MP | 32MP Front Camera
+948,Cellecor A5,1257,4.1,32 MB RAM | 32 MB ROM,4.57,1MP Rear Camera
+949,"OPPO A78 (Aqua Green, 128 GB)",17499,4.5,8 GB RAM | 128 GB ROM,16.33,50MP + 2MP | 8MP Front Camera
+950,"REDMI Note 11 SE (Space Black, 64 GB)",13990,4.3,6 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.33,64MP + 8MP + 2MP + 2MP | 13MP Front Camera
+951,"OPPO A78 (Mist Black, 128 GB)",17499,4.5,8 GB RAM | 128 GB ROM,16.33,50MP + 2MP | 8MP Front Camera
+952,HOTLINE H101,649,0.0,32 MB RAM | 32 MB ROM,4.5,1.3MP Rear Camera
+953,Kechaoda K115 PRO,1199,4.0,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+954,"Tecno Spark Go 2023 (Nebula Purple, 32 GB)",6755,4.1,3 GB RAM | 32 GB ROM | Expandable Upto 256 GB,16.66,13MP Rear Camera | 5MP Front Camera
+955,GFive PRO,799,3.5,32 MB RAM | 32 MB ROM,4.57,0.3MP Rear Camera
+956,"realme Narzo 50i Prime (Dark Blue, 32 GB)",7990,4.2,3 GB RAM | 32 GB ROM,16.51,8MP Rear Camera | 5MP Front Camera
+957,MU M230 Pro,1499,4.2,32 MB RAM | 32 MB ROM,7.11,0.3MP Rear Camera
+958,"REDMI 12C (Matte Black, 64 GB)",8899,4.2,4 GB RAM | 64 GB ROM,17.04,50MP Rear Camera
+959,"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",15894,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+960,MU M230 Pro,1499,4.2,32 MB RAM | 32 MB ROM,7.11,0.3MP Rear Camera
+961,"Infinix Note 12 Pro 5G (Snowfall, 128 GB)",18999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 2MP (Depth) + 2MP (Macro) | 16MP Front Camera
+962,"Infinix Smart 6 (Starry Purple, 64 GB)",6999,4.3,2 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.76,8 MP + Depth Lens | 5MP Front Camera
+963,"Infinix Note 12 Pro 5G (Force Black, 128 GB)",18999,4.1,8 GB RAM | 128 GB ROM | Expandable Upto 2 TB,17.02,108MP + 2MP (Depth) + 2MP (Macro) | 16MP Front Camera
+964,"REDMI 12C (Matte Black, 64 GB)",8899,4.2,4 GB RAM | 64 GB ROM,17.04,50MP Rear Camera
+965,"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",15894,4.2,6 GB RAM | 128 GB ROM,16.76,50MP Rear Camera
+966,GREENBERRI VIRAT,829,3.8,64 MB RAM | 64 MB ROM | Expandable Upto 32 GB,4.57,2MP Rear Camera
+967,LAVA A1 josh bol,1079,0.0,1 MB RAM | 4 MB ROM,4.57,1000 mAh Battery
+968,PHILIPS Xenium E172,1349,3.6,32 MB RAM | 32 MB ROM,6.1,0.3MP Rear Camera
+969,"OPPO A57 (glowing green, 64 GB)",12999,4.4,4 GB RAM | 64 GB ROM,16.66,13MP Rear Camera
+970,"IQOO Neo 7 5G (Frost Blue, 128 GB)",29990,4.4,8 GB RAM | 128 GB ROM,17.22,64MP Rear Camera
+971,"IQOO Neo 7 5G (Interstellar Black, 128 GB)",29862,4.4,8 GB RAM | 128 GB ROM,17.22,64MP Rear Camera
+972,"IQOO Z7 5G (Norway Blue, 128 GB)",23990,3.9,8 GB RAM | 128 GB ROM,16.21,64MP Rear Camera
+973,Kechaoda A 31,1200,3.9,32 MB RAM | 32 MB ROM,3.66,0.3MP Rear Camera
+974,"SAMSUNG Galaxy A34 5G (Awesome Lime, 256 GB)",32999,4.2,8 GB RAM | 256 GB ROM | Expandable Upto 1 TB,16.76,48MP + 8MP + 5MP | 13MP Front Camera
+975,"OnePlus Nord CE3 5G (Grey Shimmer, 128 GB)",26794,0.0,8 GB RAM | 128 GB ROM,17.02,50MP Rear Camera
+976,"vivo Y22 (Starlit Blue, 64 GB)",14499,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 1 TB,16.64,50MP + 2MP | 8MP Front Camera
+977,Nokia 225 4G DS 2020,4150,3.7,64 MB RAM | 128 MB ROM | Expandable Upto 32 GB,6.1,0.3MP Rear Camera
+978,"vivo T1 44W (Midnight Galaxy, 128 GB)",14499,4.5,4 GB RAM | 128 GB ROM | Expandable Upto 1 TB,16.36,50MP + 2MP + 2MP | 16MP Front Camera
+979,LAVA Flip,2059,4.1,32 MB RAM | 32 MB ROM | Expandable Upto 32 GB,6.1,0.08MP Rear Camera
+980,"vivo T1 Pro 5G (Turbo Black, 128 GB)",24999,4.4,8 GB RAM | 128 GB ROM,16.36,64MP + 8MP + 2MP | 16MP Front Camera
+981,"vivo T1 Pro 5G (Turbo Cyan, 128 GB)",24999,4.4,8 GB RAM | 128 GB ROM,16.36,64MP + 8MP + 2MP | 16MP Front Camera
+982,"POCO C31 (Royal Blue, 64 GB)",9499,4.3,4 GB RAM | 64 GB ROM | Expandable Upto 512 GB,16.59,13MP + 2MP + 2MP | 5MP Front Camera
+983,"REDMI NOTE 10 LITE (Champagne Gold, 128 GB)",13888,4.3,6 GB RAM | 128 GB ROM,16.94,48MP Rear Camera
